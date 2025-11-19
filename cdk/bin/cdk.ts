@@ -5,17 +5,17 @@ import { AwsSolutionsChecks } from 'cdk-nag';
 
 const app = new cdk.App();
 
-// Get configuration from context
-const domainName = app.node.tryGetContext('domainName') || 'adoptai.codecrafter.fr';
-const certificateArn = app.node.tryGetContext('certificateArn');
+// Get configuration from context (defined in cdk.json)
+const domainName = app.node.tryGetContext('domainName');
+const hostedZoneDomain = app.node.tryGetContext('hostedZoneDomain');
 
 new AdoptaiStack(app, 'AdoptaiStack', {
   env: {
     account: process.env.CDK_DEFAULT_ACCOUNT,
-    region: 'eu-west-1',
+    region: 'us-east-1',
   },
   domainName,
-  certificateArn,
+  hostedZoneDomain,
 });
 
 // Apply CDK Nag for security best practices

@@ -5,6 +5,8 @@ import * as lambda from 'aws-cdk-lib/aws-lambda';
 import * as cloudfront from 'aws-cdk-lib/aws-cloudfront';
 import * as origins from 'aws-cdk-lib/aws-cloudfront-origins';
 import * as acm from 'aws-cdk-lib/aws-certificatemanager';
+import * as route53 from 'aws-cdk-lib/aws-route53';
+import * as targets from 'aws-cdk-lib/aws-route53-targets';
 import * as logs from 'aws-cdk-lib/aws-logs';
 import { PythonFunction } from '@aws-cdk/aws-lambda-python-alpha';
 import { Construct } from 'constructs';
@@ -13,14 +15,14 @@ import { NagSuppressions } from 'cdk-nag';
 
 export interface AdoptaiStackProps extends cdk.StackProps {
   domainName?: string;
-  certificateArn?: string;
+  hostedZoneDomain?: string;
 }
 
 export class AdoptaiStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: AdoptaiStackProps) {
     super(scope, id, props);
 
-    const dataBucket = new s3.Bucket(this, 'DataBucket', {
+    const dataBucket = new s3.Bucket(this, 'AdoptaiDataBucket', {
       bucketName: `adoptai-data-${this.account}-${this.region}`,
       removalPolicy: cdk.RemovalPolicy.DESTROY,
       autoDeleteObjects: true,
@@ -29,20 +31,20 @@ export class AdoptaiStack extends cdk.Stack {
       enforceSSL: true,
     });
 
-    new s3deploy.BucketDeployment(this, 'DeployData', {
+    new s3deploy.BucketDeployment(this, 'AdoptaiDataDeployment', {
       sources: [s3deploy.Source.asset(path.join(__dirname, '../../data'))],
       destinationBucket: dataBucket,
       destinationKeyPrefix: 'data',
     });
 
     // Log group for Lambda
-    const logGroup = new logs.LogGroup(this, 'ApiLogGroup', {
+    const logGroup = new logs.LogGroup(this, 'AdoptaiApiLogGroup', {
       logGroupName: '/aws/lambda/adoptai-api',
       retention: logs.RetentionDays.ONE_WEEK,
       removalPolicy: cdk.RemovalPolicy.DESTROY,
     });
 
-    const apiFunction = new PythonFunction(this, 'ApiFunction', {
+    const apiFunction = new PythonFunction(this, 'AdoptaiApiFunction', {
       entry: path.join(__dirname, 'lambda'),
       runtime: lambda.Runtime.PYTHON_3_14,
       index: 'handler.py',
@@ -62,7 +64,7 @@ export class AdoptaiStack extends cdk.Stack {
     dataBucket.grantRead(apiFunction);
 
     const version = apiFunction.currentVersion;
-    const alias = new lambda.Alias(this, 'ApiAlias', { aliasName: 'live', version });
+    const alias = new lambda.Alias(this, 'AdoptaiApiAlias', { aliasName: 'live', version });
 
     const cfnFunction = apiFunction.node.defaultChild as lambda.CfnFunction;
     cfnFunction.addPropertyOverride('SnapStart', { ApplyOn: 'PublishedVersions' });
@@ -78,9 +80,17 @@ export class AdoptaiStack extends cdk.Stack {
     });
 
     let distribution: cloudfront.Distribution;
-    if (props?.certificateArn && props?.domainName) {
-      const certificate = acm.Certificate.fromCertificateArn(this, 'Certificate', props.certificateArn);
-      distribution = new cloudfront.Distribution(this, 'Distribution', {
+    if (props?.domainName && props?.hostedZoneDomain) {
+      const hostedZone = route53.HostedZone.fromLookup(this, 'AdoptaiHostedZone', {
+        domainName: props.hostedZoneDomain,
+      });
+
+      const certificate = new acm.Certificate(this, 'AdoptaiCertificate', {
+        domainName: props.domainName,
+        validation: acm.CertificateValidation.fromDns(hostedZone),
+      });
+
+      distribution = new cloudfront.Distribution(this, 'AdoptaiDistribution', {
         defaultBehavior: {
           origin: new origins.FunctionUrlOrigin(functionUrl),
           viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
@@ -93,8 +103,21 @@ export class AdoptaiStack extends cdk.Stack {
         minimumProtocolVersion: cloudfront.SecurityPolicyProtocol.TLS_V1_2_2021,
         httpVersion: cloudfront.HttpVersion.HTTP2_AND_3,
       });
+
+      // Create DNS records pointing to CloudFront
+      new route53.ARecord(this, 'AdoptaiARecord', {
+        zone: hostedZone,
+        recordName: props.domainName,
+        target: route53.RecordTarget.fromAlias(new targets.CloudFrontTarget(distribution)),
+      });
+
+      new route53.AaaaRecord(this, 'AdoptaiAaaaRecord', {
+        zone: hostedZone,
+        recordName: props.domainName,
+        target: route53.RecordTarget.fromAlias(new targets.CloudFrontTarget(distribution)),
+      });
     } else {
-      distribution = new cloudfront.Distribution(this, 'Distribution', {
+      distribution = new cloudfront.Distribution(this, 'AdoptaiDistribution', {
         defaultBehavior: {
           origin: new origins.FunctionUrlOrigin(functionUrl),
           viewerProtocolPolicy: cloudfront.ViewerProtocolPolicy.REDIRECT_TO_HTTPS,
@@ -113,7 +136,7 @@ export class AdoptaiStack extends cdk.Stack {
 
     NagSuppressions.addResourceSuppressions(apiFunction, [
       { id: 'AwsSolutions-IAM4', reason: 'AWS managed policy for Lambda', appliesTo: ['Policy::arn:<AWS::Partition>:iam::aws:policy/service-role/AWSLambdaBasicExecutionRole'] },
-      { id: 'AwsSolutions-IAM5', reason: 'Lambda needs bucket read access', appliesTo: ['Action::s3:GetBucket*', 'Action::s3:GetObject*', 'Action::s3:List*', 'Resource::<DataBucketE3889A50.Arn>/*'] },
+      { id: 'AwsSolutions-IAM5', reason: 'Lambda needs bucket read access', appliesTo: ['Action::s3:GetBucket*', 'Action::s3:GetObject*', 'Action::s3:List*', 'Resource::<AdoptaiDataBucketF19A8CAE.Arn>/*'] },
       { id: 'AwsSolutions-L1', reason: 'Python 3.14 is the latest Lambda runtime' },
     ], true);
 
@@ -133,13 +156,12 @@ export class AdoptaiStack extends cdk.Stack {
         'Action::s3:List*',
         'Action::s3:Abort*',
         'Action::s3:DeleteObject*',
-        'Resource::<DataBucketE3889A50.Arn>/*',
+        'Resource::<AdoptaiDataBucketF19A8CAE.Arn>/*',
         { regex: '/^Resource::arn:aws:s3:::cdk-.*/' },
       ]},
       { id: 'AwsSolutions-L1', reason: 'Custom resource runtimes managed by CDK' },
     ]);
 
-    new cdk.CfnOutput(this, 'FunctionUrl', { value: functionUrl.url, description: 'Lambda Function URL' });
     new cdk.CfnOutput(this, 'CloudFrontUrl', { value: `https://${distribution.distributionDomainName}`, description: 'CloudFront URL' });
     new cdk.CfnOutput(this, 'BucketName', { value: dataBucket.bucketName, description: 'S3 Bucket Name' });
     if (props?.domainName) {

@@ -1,0 +1,12 @@
+{
+  "name": "adoptai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cdk": "yarn --cwd cdk cdk",
+    "synth": "yarn --cwd cdk cdk synth",
+    "deploy": "yarn --cwd cdk cdk deploy",
+    "diff": "yarn --cwd cdk cdk diff",
+    "destroy": "yarn --cwd cdk cdk destroy"
+  }
+}

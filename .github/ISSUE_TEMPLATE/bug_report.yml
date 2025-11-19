@@ -1,0 +1,115 @@
+name: Bug Report
+description: Report a bug or issue with the Fronius Homey App
+title: "[BUG] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! Please fill out the information below to help us investigate.
+
+  - type: dropdown
+    id: driver
+    attributes:
+      label: Which driver is affected?
+      description: Select the driver where you're experiencing the issue
+      options:
+        - Inverter
+        - Smartmeter
+        - Ohmpilot
+        - Storage
+        - PowerFlow
+        - Reporting
+        - Other / Not sure
+    validations:
+      required: true
+
+  - type: dropdown
+    id: fronius-model
+    attributes:
+      label: Fronius Equipment Model
+      description: Which Fronius model are you using?
+      options:
+        - Classic Inverter
+        - GEN24
+        - Tauro
+        - Other (please specify in description)
+    validations:
+      required: true
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App Version
+      description: Which version of the Fronius Homey app are you using?
+      placeholder: "e.g., 0.1.17"
+    validations:
+      required: true
+
+  - type: input
+    id: homey-version
+    attributes:
+      label: Homey Firmware Version
+      description: Which version of Homey firmware are you running?
+      placeholder: "e.g., 12.3.0"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: phase-type
+    attributes:
+      label: Smartmeter Phase Type (if applicable)
+      description: If this is a smartmeter issue, what type of connection?
+      options:
+        - Not applicable
+        - Single-phase
+        - 3-phase
+    validations:
+      required: false
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Bug Description
+      description: A clear description of what the bug is
+      placeholder: Describe what's happening...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected Behavior
+      description: What did you expect to happen?
+      placeholder: What should happen instead...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: How can we reproduce this issue?
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. See error...
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Error Messages or Logs
+      description: If you have any error messages or logs, please paste them here
+      render: shell
+    validations:
+      required: false
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Additional Context
+      description: Any other information that might help us solve this issue
+    validations:
+      required: false

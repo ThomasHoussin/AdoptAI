@@ -181,7 +181,7 @@ MIT License - feel free to use this for other conferences!
 - GitHub: [@ThomasHoussin](https://github.com/ThomasHoussin)
 - Website: [codecrafter.fr](https://codecrafter.fr)
 
-Built in 3 hours because AI events should be AI-accessible.
+Because AI events should be AI-accessible.
 
 ## 🙏 Acknowledgments
 
@@ -192,3 +192,4 @@ Built in 3 hours because AI events should be AI-accessible.
 ---
 
 **"Adopt AI... but make it actually adoptable by AI"** 🤖
+Built with ❤️ and irony: an AI summit without AI-readable data.
