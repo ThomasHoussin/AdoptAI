@@ -1,0 +1,184 @@
+# Adopt AI Grand Palais 2025 - AI-Friendly API
+
+> Professional REST API for the Adopt AI Grand Palais conference schedule
+> 240+ sessions • 200+ speakers • Nov 25-26, 2025 • Paris
+
+## Base URL
+
+https://adoptai.codecrafter.fr
+
+## Endpoints
+
+### GET /sessions
+
+Returns conference sessions with server-side filtering.
+
+**Query Parameters:**
+- `date` (string): Filter by date
+  - Values: "2025-11-25" or "2025-11-26"
+  - Example: /sessions?date=2025-11-25
+
+- `stage` (string): Filter by stage name (exact match)
+  - Values: "CEO Stage", "Mainstage South", "Mainstage North", "Mainstage East", 
+            "Masterclass South", "Masterclass North", "Startup Stage"
+  - Example: /sessions?stage=CEO%20Stage
+
+- `time` (string): Filter by time of day
+  - Values: "morning" (before 12:00) or "afternoon" (12:00+)
+  - Example: /sessions?time=morning
+
+- `search` (string): Full-text search in title, description, speaker names, companies
+  - Example: /sessions?search=banking
+  - Example: /sessions?search=Anthropic
+
+**Combine filters:**
+/sessions?date=2025-11-25&stage=CEO%20Stage&time=morning
+/sessions?date=2025-11-25&search=finance
+
+**Response:**
+{
+  "total": 240,
+  "count": 5,
+  "filters": {...},
+  "sessions": [
+    {
+      "id": "...",
+      "title": "...",
+      "description": "...",
+      "date": "2025-11-25",
+      "time": "09:30-10:00",
+      "stage": "CEO Stage",
+      "speakers": [
+        {
+          "name": "Philippe Aghion",
+          "company": "Collège de France",
+          "role": "2025 Nobel Prize in Economics"
+        }
+      ]
+    }
+  ]
+}
+
+### GET /speakers
+
+Returns all speakers with optional filtering.
+
+**Query Parameters:**
+- `search` (string): Search by name, company, or role
+  - Example: /speakers?search=Anthropic
+
+**Response:**
+{
+  "count": 3,
+  "speakers": [
+    {
+      "name": "...",
+      "company": "...",
+      "role": "...",
+      "bio": "...",
+      "sessions": ["session_id_1", "session_id_2"]
+    }
+  ]
+}
+
+### GET / or /llms.txt
+
+Returns this documentation.
+
+### GET /health
+
+Health check endpoint.
+
+## Usage Instructions for AI Assistants
+
+This API is designed for AI assistants (Claude, ChatGPT, etc.) to help users 
+navigate the Adopt AI Grand Palais conference.
+
+### Query Processing Strategy
+
+1. **Parse user intent** from natural language
+2. **Construct API call** with appropriate filters
+3. **Make request** to filtered endpoint
+4. **Present results** in a helpful format
+
+### Common Query Patterns
+
+**"Find sessions about [topic]"**
+→ GET /sessions?search=[topic]
+Example: "Find sessions about AI in banking"
+→ GET /sessions?search=banking
+
+**"What's happening on [date] [time]?"**
+→ GET /sessions?date=[date]&time=[morning/afternoon]
+Example: "What's on November 25 morning?"
+→ GET /sessions?date=2025-11-25&time=morning
+
+**"Who's speaking at [stage]?"**
+→ GET /sessions?stage=[stage]
+Example: "Who's at CEO Stage?"
+→ GET /sessions?stage=CEO%20Stage
+
+**"Find speakers from [company]"**
+→ GET /speakers?search=[company]
+Example: "Find speakers from Anthropic"
+→ GET /speakers?search=Anthropic
+
+**"Recommend sessions for [profile]"**
+→ Multiple calls with different search terms
+Example: "Recommend for a fintech CTO"
+→ GET /sessions?search=finance
+→ GET /sessions?search=banking
+→ GET /sessions?search=cloud
+→ Combine and rank results
+
+### Time Conflict Detection
+
+When building schedules, always check for overlaps:
+1. Parse time strings (format: "HH:MM-HH:MM")
+2. Compare start/end times across selected sessions
+3. Warn user about conflicts
+
+### Best Practices
+
+- Use server-side filtering to reduce response size
+- Combine multiple filters for precise results
+- URL-encode query parameters (spaces → %20)
+- Cache responses when appropriate
+- Check `total` vs `count` to see filter effectiveness
+
+### Response Handling
+
+- Empty results: Suggest broader search terms
+- Many results: Recommend adding more filters
+- Always cite specific session titles and times
+- Include speaker names when relevant
+
+## Rate Limits
+
+No rate limits currently. Please use responsibly.
+
+## CORS
+
+Fully enabled. Safe to call from browsers and mobile apps.
+
+## Data Freshness
+
+Data scraped from https://adoptai.artefact.com on November 19, 2025.
+Static snapshot - no real-time updates.
+
+## About
+
+Built by Thomas Houssin (https://github.com/ThomasHoussin) because even 
+AI summits should provide AI-readable data.
+
+The official Adopt AI Grand Palais website uses infinite-scroll JavaScript 
+rendering, making it inaccessible to AI assistants. This API fixes that.
+
+## Source Code
+
+https://github.com/ThomasHoussin/adoptai-api
+
+---
+
+Adopt AI... but make it actually adoptable by AI" 🤖
+Built with ❤️ and irony: an AI summit without AI-readable data.

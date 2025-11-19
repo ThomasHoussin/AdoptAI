@@ -1,0 +1,7301 @@
+{
+  "metadata": {
+    "source": "https://adoptai.artefact.com/content/programme-global-stages-",
+    "extractedAt": "2025-11-19",
+    "totalSpeakers": 499
+  },
+  "speakers": [
+    {
+      "name": "Aditya Kudumala",
+      "initials": "AK",
+      "company": "Deloitte",
+      "title": "Partner & Global AI Lead for Life Sciences",
+      "sessions": [
+        {
+          "sessionId": "f4645ec8-df9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "6:00 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Adrian Mcdonald",
+      "initials": "AM",
+      "company": "Dell Technologies EMEA",
+      "title": "President",
+      "sessions": [
+        {
+          "sessionId": "227867df-aec0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:05 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Adriana Mirón",
+      "initials": "AM",
+      "company": "Loewe",
+      "title": "Head of PMO & Governance",
+      "sessions": [
+        {
+          "sessionId": "85ed1f8d-26be-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "3:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Adrien Coulet",
+      "initials": "AC",
+      "company": "Inria",
+      "title": "Researcher & Co-Lead of HeKA, a Joint Inria-Inserm Lab",
+      "sessions": [
+        {
+          "sessionId": "e6f03468-d59e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Adrien Vesteghem",
+      "initials": "AV",
+      "company": "MEILLEURTAUX",
+      "title": "Chief Data/AI Officer",
+      "sessions": [
+        {
+          "sessionId": "1bc34130-35b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Agnès Park",
+      "initials": "AP",
+      "company": "Valeo",
+      "title": "Chief Human Resources Officer, Board Member",
+      "sessions": [
+        {
+          "sessionId": "97257003-ecbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:50 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Ahmad Murtada",
+      "initials": "AM",
+      "company": "Servier",
+      "title": "Chief Transformation Officer",
+      "sessions": [
+        {
+          "sessionId": "802ef506-c69e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Ahmed Nazer",
+      "initials": "AN",
+      "company": "Aramco",
+      "title": "IT Specialist",
+      "sessions": [
+        {
+          "sessionId": "9e038226-ecbe-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:45 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Alain Bécoulet",
+      "initials": "AB",
+      "company": "ITER Organization",
+      "title": "Deputy Director General",
+      "sessions": [
+        {
+          "sessionId": "a0510ff7-61a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:40 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Alan Ferbach",
+      "initials": "AF",
+      "company": "VIDETICS",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "59b23b17-34be-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Alban Dumouilla",
+      "initials": "AD",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "335afe53-dca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:15 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Albane Courjaud",
+      "initials": "AC",
+      "company": "Sanofi",
+      "title": "Process Simplification and Operations Efficiency Manager R&D – R&D Global Operations",
+      "sessions": [
+        {
+          "sessionId": "b929851e-dfa8-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:30 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Alberto de los Ojos",
+      "initials": "ADLO",
+      "company": "HORSE POWERTRAIN",
+      "title": "Operations Director",
+      "sessions": [
+        {
+          "sessionId": "f7beb0ee-44c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:30 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Alda Sawaya",
+      "initials": "AS",
+      "company": "DATAIKU",
+      "title": "RVP Financial Services & Public Sector",
+      "sessions": [
+        {
+          "sessionId": "68d40187-4ca4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Aldrick Zappellini",
+      "initials": "AZ",
+      "company": "CREDIT AGRICOLE",
+      "title": "Group Data & AI Director & CDO",
+      "sessions": [
+        {
+          "sessionId": "5809432a-85a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass South"
+        },
+        {
+          "sessionId": "d0ba2392-91a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:40 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Alex Braun",
+      "initials": "AB",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "509e4abe-2fbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "5:19 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Alexander Pöllmann",
+      "initials": "AP",
+      "company": "Viessman Generations Group",
+      "title": "Group Director IT & Digital",
+      "sessions": [
+        {
+          "sessionId": "f5b7c5a6-b7a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:45 AM",
+          "stage": ""
+        }
+      ]
+    },
+    {
+      "name": "Alexander Rinke",
+      "initials": "AR",
+      "company": "Celonis",
+      "title": "Co-CEO and Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "4c8106e0-82b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "12:30 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Alexander Vollert",
+      "initials": "AV",
+      "company": "AXA GO",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "36580855-3cb4-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:55 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Alexandre Bompard",
+      "initials": "AB",
+      "company": "Carrefour",
+      "title": "Charmain & CEO",
+      "sessions": [
+        {
+          "sessionId": "aa5b6687-86b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "2:15 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Alexandre Le Bouthillier",
+      "initials": "ALB",
+      "company": "Linearis",
+      "title": "CEO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "51f09d78-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:25 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Alice Guéhennec",
+      "initials": "AG",
+      "company": "Sodexo",
+      "title": "Group Chief Tech, Data, Digital & Innovation Officer",
+      "sessions": [
+        {
+          "sessionId": "adeae17c-4fb0-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Alice Moutier",
+      "initials": "AM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "65df0516-88a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:05 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Alicia Garrigoux",
+      "initials": "AG",
+      "company": "Artefact",
+      "title": "Project manager - AIFF",
+      "sessions": [
+        {
+          "sessionId": "5defedcb-41a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "9:35 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Amaury Martin",
+      "initials": "AM",
+      "company": "Institut Curie",
+      "title": "Chief Innovation & Growth Officer",
+      "sessions": [
+        {
+          "sessionId": "c69f411d-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "10:10 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Amir Moeini",
+      "initials": "AM",
+      "company": "Capgemini",
+      "title": "SAP Innovation Leader & GenAI Expert at Capgemini Global SAP CTIO Office",
+      "sessions": [
+        {
+          "sessionId": "ca590768-72c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "Masterclass North"
+        },
+        {
+          "sessionId": "40b97bd3-72c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:25 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Andreas Schertzinger",
+      "initials": "AS",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "4d397e07-44a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Andrei Serjantov",
+      "initials": "AS",
+      "company": "BNP PARIBAS",
+      "title": "Head of Digital Global Markets",
+      "sessions": [
+        {
+          "sessionId": "a31655e7-66b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Steadman",
+      "initials": "AS",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "60dc374b-1ab0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "5:15 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Wilson",
+      "initials": "AW",
+      "company": "International Chamber of Commerce",
+      "title": "Deputy Secretary General",
+      "sessions": [
+        {
+          "sessionId": "5bac2269-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:25 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Anna Fontcuberta i Morral",
+      "initials": "AFIM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "52cc2cfe-32bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "6:06 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Anne Bouverot",
+      "initials": "AB",
+      "company": "France’s Special Envoy for AI",
+      "title": "Artefact",
+      "sessions": [
+        {
+          "sessionId": "794626de-77b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "9:15 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Anne Ferrer-Villeneuve",
+      "initials": "AF",
+      "company": "Montpellier UHC",
+      "title": "Managing Director",
+      "sessions": [
+        {
+          "sessionId": "446b62a1-bf9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:45 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Anne Maheust",
+      "initials": "AM",
+      "company": "Use & Share",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "78be3b29-b0aa-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Anne Pruvot",
+      "initials": "AP",
+      "company": "SNCF Connect & Tech",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "579c9759-20af-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:05 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Anne-Claire Baschet",
+      "initials": "AB",
+      "company": "Mirakl",
+      "title": "Chief Data/AI Officer",
+      "sessions": [
+        {
+          "sessionId": "22e462c4-22c3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "4:40 PM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "ee4c6fa1-bba9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:25 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Anne-Laure Giret",
+      "initials": "AG",
+      "company": "GOOGLE CLOUD",
+      "title": "Head of Google Cloud AI GTM, EMEA South",
+      "sessions": [
+        {
+          "sessionId": "6b029793-cea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Anne-Sophie Grouchka",
+      "initials": "AG",
+      "company": "SOLVD GROUP",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "aa868624-19b9-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Anne-Sophie Lotgering",
+      "initials": "AL",
+      "company": "NTT DATA",
+      "title": "Europe CEO",
+      "sessions": [
+        {
+          "sessionId": "46d4b4ad-cca3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Antoine De Torcy",
+      "initials": "ADT",
+      "company": "Biolevate",
+      "title": "Chief AI & Product Officer",
+      "sessions": [
+        {
+          "sessionId": "4d0430df-e1ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:30 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Antonio Abi Saad",
+      "initials": "AAS",
+      "company": "Sodexo",
+      "title": "Group Chief Data Officer",
+      "sessions": [
+        {
+          "sessionId": "1a151a91-adc4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "10:00 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Antonio Krüger",
+      "initials": "AK",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "6e2604ca-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Antony Cirot",
+      "initials": "AC",
+      "company": "Google Cloud",
+      "title": "VP EMEA South",
+      "sessions": [
+        {
+          "sessionId": "981d2833-dcb8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "9:57 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Anwar Dahab",
+      "initials": "AD",
+      "company": "Dell Technologies",
+      "title": "Senior Vice President & Managing Director France",
+      "sessions": [
+        {
+          "sessionId": "446b62a1-bf9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:45 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Arafat Mlika",
+      "initials": "AM",
+      "company": "Amazon Web Services",
+      "title": "Global Sales Leader and Life Sciences Business Development Lead",
+      "sessions": [
+        {
+          "sessionId": "b43cebab-c09e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "10:25 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Armel Negret",
+      "initials": "AN",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "4be8e60e-7eb5-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Arnaud Fournier",
+      "initials": "AF",
+      "company": "OpenAI",
+      "title": "Head of FDE for EMEA",
+      "sessions": [
+        {
+          "sessionId": "22e462c4-22c3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "4:40 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Arthur Delapalme",
+      "initials": "AD",
+      "company": "Codoc",
+      "title": "CEO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "7d0ef6db-c49e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Athena Vooght",
+      "initials": "AV",
+      "company": "ARTEFACT",
+      "title": "Partner",
+      "sessions": [
+        {
+          "sessionId": "18f1f374-c7a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Audrey Herblin-Stoop",
+      "initials": "AH",
+      "company": "MISTRAL AI",
+      "title": "VP, Global Public Affairs & Communications",
+      "sessions": [
+        {
+          "sessionId": "46d4b4ad-cca3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Aurélien Escartin",
+      "initials": "AE",
+      "company": "VusionGroup",
+      "title": "VP Innovation & AI Transformation",
+      "sessions": [
+        {
+          "sessionId": "d171cd95-aca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Aurélien Fenard",
+      "initials": "AF",
+      "company": "France Travail",
+      "title": "Director of Digital Transformation & HR Data",
+      "sessions": [
+        {
+          "sessionId": "0b686289-cfb8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Aurélien Gervasi",
+      "initials": "AG",
+      "company": "BACKMARKET",
+      "title": "Senior Engineering Manager - AI",
+      "sessions": [
+        {
+          "sessionId": "335afe53-dca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:15 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Axel Voss",
+      "initials": "AV",
+      "company": "European Parliament",
+      "title": "Member of the European Parliament",
+      "sessions": [
+        {
+          "sessionId": "acb487e3-d49e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Aymen Shabou",
+      "initials": "AS",
+      "company": "DATA LAB CREDIT AGRICOLE",
+      "title": "CTO & Head of AI, DataLab Groupe",
+      "sessions": [
+        {
+          "sessionId": "d0ba2392-91a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:40 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Bader Khaldi",
+      "initials": "BK",
+      "company": "Aramco",
+      "title": "Director of Cybersecurity Protection Department",
+      "sessions": [
+        {
+          "sessionId": "d0e1fbbc-b2bf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Balthazar Raffy",
+      "initials": "BR",
+      "company": "MSInsight",
+      "title": "Bioinformatician",
+      "sessions": [
+        {
+          "sessionId": "37f51ddb-dc9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "5:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Bastien Lacheny",
+      "initials": "BL",
+      "company": "National Basketball Association (NBA)",
+      "title": "Vice President - Head of Media Sales & DTC EME",
+      "sessions": [
+        {
+          "sessionId": "4be8e60e-7eb5-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Béatrice Dautzenberg",
+      "initials": "BD",
+      "company": "L’Oréal Groupe",
+      "title": "Global Director of Beauty Tech Services & Open Innovation Digital & Marketing",
+      "sessions": [
+        {
+          "sessionId": "00081d94-b5a9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Ben Richardson",
+      "initials": "BR",
+      "company": "Coreweave",
+      "title": "VP Strategy",
+      "sessions": [
+        {
+          "sessionId": "1130f021-3bb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Bénédicte Bahier",
+      "initials": "BB",
+      "company": "Legrand",
+      "title": "Global CHRO - Member of the Executive Committee",
+      "sessions": [
+        {
+          "sessionId": "1ed66301-c8b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Garel",
+      "initials": "BG",
+      "company": "Paris Saclay Cancer Cluster",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "c69f411d-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "10:10 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Latli",
+      "initials": "BL",
+      "company": "Jicceee",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "9661eef5-bfa5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Merklen",
+      "initials": "BM",
+      "company": "AXA GROUP OPERATIONS",
+      "title": "Secure GPT Product Manager",
+      "sessions": [
+        {
+          "sessionId": "da4cceec-47b4-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "3:05 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Benjamin Prato",
+      "initials": "BP",
+      "company": "Olympique de Marseille (OM)",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "4be8e60e-7eb5-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Benoit Bouffard",
+      "initials": "BB",
+      "company": "LIGHTON",
+      "title": "CPO & CMO",
+      "sessions": [
+        {
+          "sessionId": "c9dff48e-43ab-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:30 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Benoît Coquart",
+      "initials": "BC",
+      "company": "Legrand",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "1653096d-66ab-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "5:35 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Benoît Serre",
+      "initials": "BS",
+      "company": "Cercle Humania",
+      "title": "Moderator - Co-Chairman",
+      "sessions": [
+        {
+          "sessionId": "97257003-ecbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:50 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Bernard Fontana",
+      "initials": "BF",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a8de895c-7eb6-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "9:45 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Bernd Leukert",
+      "initials": "BL",
+      "company": "DEUTSCHE BANK",
+      "title": "Chief Technology, Data and Innovation Officer Member of the Management Board",
+      "sessions": [
+        {
+          "sessionId": "1bd4419a-e3b1-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:15 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Bertrand Kian Hassani",
+      "initials": "BKH",
+      "company": "Quant AI Lab",
+      "title": "CEO Group",
+      "sessions": [
+        {
+          "sessionId": "420004ae-dfad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Bertrand Rondepierre",
+      "initials": "BR",
+      "company": "AMIAD",
+      "title": "Head of Ministerial Agency for AI in Defense",
+      "sessions": [
+        {
+          "sessionId": "2f2c18da-80ba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:50 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Bertrand Stephann",
+      "initials": "BS",
+      "company": "Alcmeon",
+      "title": "Co-founder and CEO",
+      "sessions": [
+        {
+          "sessionId": "0fca5e21-e5ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:30 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Biljana Weber",
+      "initials": "BW",
+      "company": "Hewlett Packard Enterprise",
+      "title": "Senior Vice President and Managing Director for Northern Western Europe",
+      "sessions": [
+        {
+          "sessionId": "994ef5cb-56b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "10:30 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "2f2c18da-80ba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:50 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Bora Guloglu",
+      "initials": "BG",
+      "company": "InstaDeep",
+      "title": "Senior Research Scientist",
+      "sessions": [
+        {
+          "sessionId": "37f51ddb-dc9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "5:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Boris Liniere",
+      "initials": "BL",
+      "company": "Second Brain",
+      "title": "Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "4bc46257-e8ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Brian Gruttadauria",
+      "initials": "BG",
+      "company": "HEWLETT PACKARD ENTERPRISE",
+      "title": "Chief Technology Officer, Hybrid Cloud",
+      "sessions": [
+        {
+          "sessionId": "3319eac4-21b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:10 AM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "7ca11088-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:50 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Brice Miranda",
+      "initials": "BM",
+      "company": "Servier",
+      "title": "Chief Data & AI Officer",
+      "sessions": [
+        {
+          "sessionId": "802ef506-c69e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Daunay",
+      "initials": "BD",
+      "company": "Leonard (VINCI)",
+      "title": "Head of AI Program",
+      "sessions": [
+        {
+          "sessionId": "a8c51efe-81c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Ricaud",
+      "initials": "BR",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "b171b0c9-7ea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Sportisse",
+      "initials": "BS",
+      "company": "INRIA",
+      "title": "Chairman & CEO",
+      "sessions": [
+        {
+          "sessionId": "6e2604ca-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:55 PM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "52cc2cfe-32bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "6:06 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Bruno Vaffier",
+      "initials": "BV",
+      "company": "Cegid",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "c0b3b361-7ec0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:30 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Camille Berthelot",
+      "initials": "CB",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "04fd5d45-24a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Carole Mergen",
+      "initials": "CM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "89a9f5cf-6cac-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Caspar Herzberg",
+      "initials": "CH",
+      "company": "AVEVA",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "fc8914b6-78a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:37 PM",
+          "stage": ""
+        }
+      ]
+    },
+    {
+      "name": "Catherine Mathon",
+      "initials": "CM",
+      "company": "BNP PARIBAS",
+      "title": "Chief Operating Officer Banque Commerciale en France",
+      "sessions": [
+        {
+          "sessionId": "68d40187-4ca4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Catherine Mayenobe",
+      "initials": "CM",
+      "company": "CAISSE DES DÉPOTS",
+      "title": "Deputy CEO",
+      "sessions": [
+        {
+          "sessionId": "68d40187-4ca4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Catherine Meunier",
+      "initials": "CM",
+      "company": "GROUPE BPCE",
+      "title": "Director of AI Democratization and Adoption",
+      "sessions": [
+        {
+          "sessionId": "31f7e721-8ca4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Cécile Moreau",
+      "initials": "CM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "89a9f5cf-6cac-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Cédric Carbone",
+      "initials": "CC",
+      "company": "Hymalaia",
+      "title": "Co-founder",
+      "sessions": [
+        {
+          "sessionId": "af43c8e3-80b9-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:20 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Cédric Merlin",
+      "initials": "CM",
+      "company": "VALEO",
+      "title": "Head of AI",
+      "sessions": [
+        {
+          "sessionId": "379eae29-68c4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Charles Rollet",
+      "initials": "CR",
+      "company": "TraceX",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "cb7ab334-d9a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:45 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Charlotte Gaudin",
+      "initials": "CG",
+      "company": "AML Factory",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "759f83bd-dead-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:10 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Charlotte Reed",
+      "initials": "CR",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "9814667e-7eaf-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:05 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "1653096d-66ab-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "5:35 PM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "a8de895c-7eb6-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "9:45 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "28cc3743-1eb8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:30 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Chistoph Gross",
+      "initials": "CG",
+      "company": "ARTEFACT",
+      "title": "Partner",
+      "sessions": [
+        {
+          "sessionId": "1bc34130-35b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Chloe Guilfoyle",
+      "initials": "CG",
+      "company": "Avalon",
+      "title": "Founder",
+      "sessions": [
+        {
+          "sessionId": "59121756-47c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:20 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Chris O’Brien",
+      "initials": "CO",
+      "company": "The French Tech Journal",
+      "title": "Journalist, Founder and editor of The French Tech Journal",
+      "sessions": [
+        {
+          "sessionId": "46d4b4ad-cca3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:30 PM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "5e40ddfa-a9b4-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "4:50 PM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "822e5988-14c2-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "6:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Chris Sharp",
+      "initials": "CS",
+      "company": "DIGITAL REALTY",
+      "title": "Chief Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "132b4ca8-c6a9-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Chris Van Pelt",
+      "initials": "CVP",
+      "company": "WEIGHTS & BIASES",
+      "title": "Distinguished Engineer and Cofounder",
+      "sessions": [
+        {
+          "sessionId": "071dc803-79c5-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "5:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Christel Heydemann",
+      "initials": "CH",
+      "company": "Orange",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "d5ead79c-94b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "2:45 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Christian Serrano",
+      "initials": "CS",
+      "company": "Renault Group",
+      "title": "Team Lead, Supply Chain Artificial Intelligence",
+      "sessions": [
+        {
+          "sessionId": "ee8cc75a-7db9-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:15 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Christina Chrysovulou",
+      "initials": "CC",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "6c916305-d1b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:55 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Christophe de Bueil",
+      "initials": "CDB",
+      "company": "Grant Alexander Next",
+      "title": "Co-founder & Chief Executive Officer at Grant Alexander Next",
+      "sessions": [
+        {
+          "sessionId": "0b686289-cfb8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Christophe Lattuada",
+      "initials": "CL",
+      "company": "SOCIÉTÉ GÉNÉRALE",
+      "title": "COO of Global Banking & Investor Solutions and Group Executive Sponsor for AI",
+      "sessions": [
+        {
+          "sessionId": "4d397e07-44a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Christophe Périllat",
+      "initials": "CP",
+      "company": "Valeo",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "dedabc63-3db4-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "12:10 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Claire Calmejane",
+      "initials": "CC",
+      "company": "Founders Future",
+      "title": "President France (General Manager, VP)",
+      "sessions": [
+        {
+          "sessionId": "1130f021-3bb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Clay Lin",
+      "initials": "CL",
+      "company": "World Bank Group",
+      "title": "Senior Advisor Digital & AI",
+      "sessions": [
+        {
+          "sessionId": "5bac2269-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:25 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Clément Auguy",
+      "initials": "CA",
+      "company": "Mistral AI",
+      "title": "Account executive",
+      "sessions": [
+        {
+          "sessionId": "0277725c-94a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Clément Dietschy",
+      "initials": "CD",
+      "company": "Ask for the Moon",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a0510ff7-61a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:40 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Clément Tiret",
+      "initials": "CT",
+      "company": "Electra",
+      "title": "Chief Financial Officer",
+      "sessions": [
+        {
+          "sessionId": "379eae29-68c4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Corentin Rosado",
+      "initials": "CR",
+      "company": "Asana",
+      "title": "Head of AI GTM international",
+      "sessions": [
+        {
+          "sessionId": "759c5c90-20be-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:00 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Cristian Canton",
+      "initials": "CC",
+      "company": "Barcelona Supercomputing Center (BSC)",
+      "title": "Associate Director",
+      "sessions": [
+        {
+          "sessionId": "9aabf1f8-4ab3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "3:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Cyril Cymbler",
+      "initials": "CC",
+      "company": "DATABRICKS",
+      "title": "Head of Financial Services EMEA & Global Banking",
+      "sessions": [
+        {
+          "sessionId": "a31655e7-66b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Cyril Reinhard",
+      "initials": "CR",
+      "company": "Zelinqa",
+      "title": "Co-founder & CEA",
+      "sessions": [
+        {
+          "sessionId": "63b5f6fc-49c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:10 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Cyrille Brichant",
+      "initials": "CB",
+      "company": "ARTELIA",
+      "title": "Director of Technology & Performance - Head of Digital Solutions",
+      "sessions": [
+        {
+          "sessionId": "97d0da9f-35c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:30 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Damien Gromier",
+      "initials": "DG",
+      "company": "Artefact",
+      "title": "CEO & Founder of Adopt AI Grand Palais",
+      "sessions": [
+        {
+          "sessionId": "ffb6d329-57b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "9:05 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "d1ed1c4d-30bf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:00 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Dane Molter",
+      "initials": "DM",
+      "company": "Navan",
+      "title": "SVP, Navan Group Travel Marketplace",
+      "sessions": [
+        {
+          "sessionId": "215ed388-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Danny Kiernan",
+      "initials": "DK",
+      "company": "NVIDIA",
+      "title": "SR EMEA Director OEM Alliances",
+      "sessions": [
+        {
+          "sessionId": "063eb1d1-98aa-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "1:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "David Amiel",
+      "initials": "DA",
+      "company": "Ministry of Civil Service and State Reform",
+      "title": "Minister Delegate for the Civil Service & State Reform",
+      "sessions": [
+        {
+          "sessionId": "5d3ff258-1abe-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:10 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "David Braun",
+      "initials": "DB",
+      "company": "Merck",
+      "title": "Head of Commercial Operations & Customer Engagement for Global Digital Health",
+      "sessions": [
+        {
+          "sessionId": "9ca95777-da9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "David Cahané",
+      "initials": "DC",
+      "company": "Bioptimus",
+      "title": "General Manager & Co-founder",
+      "sessions": [
+        {
+          "sessionId": "a2f96db5-d79e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "David Del Bourgo",
+      "initials": "DDB",
+      "company": "WhiteLab Genomics",
+      "title": "CEO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "bb4ff22e-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:40 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "David Krieff",
+      "initials": "DK",
+      "company": "Groupe ADP",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "3a09be43-c8ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "David Martin",
+      "initials": "DM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "0fca5e21-e5ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:30 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Didier Descombes",
+      "initials": "DD",
+      "company": "DELOITTE",
+      "title": "Senior Partner, Leadership Committee Cloud Data AI",
+      "sessions": [
+        {
+          "sessionId": "4d397e07-44a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Digital & Integration Learning & Competency Manager",
+      "initials": "SLB",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "6c916305-d1b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:55 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Dirk Hoke",
+      "initials": "DH",
+      "company": "Voith Group",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "56fccf0e-99b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "3:50 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Dmitry Pavlotsky",
+      "initials": "DP",
+      "company": "Game Analyze",
+      "title": "Co-Founder & CMO",
+      "sessions": [
+        {
+          "sessionId": "cc87fd06-5aa4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:30 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Dominik Asam",
+      "initials": "DA",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "14f4e6e9-22b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Dominique Tran",
+      "initials": "DT",
+      "company": "Leroy Merlin",
+      "title": "Head of AI",
+      "sessions": [
+        {
+          "sessionId": "d171cd95-aca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Dr Mahir Nayfeh",
+      "initials": "DMN",
+      "company": "AI71",
+      "title": "Global Technology & Engineering Leader - Chief Product Officer, ai71 | Former McKinsey QuantumBlack Partner, Booz Allen Senior VP",
+      "sessions": [
+        {
+          "sessionId": "a8c51efe-81c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Dr Najwa Aaraj",
+      "initials": "DNA",
+      "company": "Technology Innovation Institute",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "cf9933c6-88aa-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:15 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Dr Prasun Chakraborty",
+      "initials": "DPC",
+      "company": "Genevation",
+      "title": "CEO & Founder",
+      "sessions": [
+        {
+          "sessionId": "527bb5d9-6fb9-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "3:20 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Aditi U. Joshi",
+      "initials": "DAUJ",
+      "company": "Ardexia",
+      "title": "CEO & Founder",
+      "sessions": [
+        {
+          "sessionId": "e6f03468-d59e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Andrea Slasuraitis",
+      "initials": "DAS",
+      "company": "American College of AI and Medicine",
+      "title": "Vice President",
+      "sessions": [
+        {
+          "sessionId": "34bce1ff-1aa5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Arman Gorji",
+      "initials": "DAG",
+      "company": "Neuroscience & Neoplasia AI Research Group (NAIRG)",
+      "title": "Co-Founder & Head",
+      "sessions": [
+        {
+          "sessionId": "37f51ddb-dc9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "5:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Cécile Teinturier",
+      "initials": "DCT",
+      "company": "Bicêtre Hospital AP-HP",
+      "title": "Pediatric Endocrinologist",
+      "sessions": [
+        {
+          "sessionId": "9ca95777-da9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Chaouki Kasmi",
+      "initials": "DCK",
+      "company": "EDGE Group",
+      "title": "President – Technology & Innovation",
+      "sessions": [
+        {
+          "sessionId": "43073e9d-7ba3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:40 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Dario Albani",
+      "initials": "DDA",
+      "company": "TII’s Autonomous Robotics Research Center",
+      "title": "Executive Director of the Aerial Vertical",
+      "sessions": [
+        {
+          "sessionId": "53a00d3f-21b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Eva-Maria Hempe",
+      "initials": "DEH",
+      "company": "Nvidia",
+      "title": "Executive Director Healthcare & Life Sciences EMEA",
+      "sessions": [
+        {
+          "sessionId": "7ca11088-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:50 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Grégoire Pigné",
+      "initials": "DGP",
+      "company": "PulseLife",
+      "title": "CEO & Co-Founder, Oncologist Radiotherapist",
+      "sessions": [
+        {
+          "sessionId": "d9a22c25-c19e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:15 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Hakim Hacid",
+      "initials": "DHH",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "6c1c5e4a-c7bf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Kévin Yauy",
+      "initials": "DKY",
+      "company": "Montpellier UHC",
+      "title": "Physician & PhD in AI, Head of the Generative AI in Health Lab - ERIOS",
+      "sessions": [
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Melvin Speisman",
+      "initials": "DMS",
+      "company": "American College of AI and Medicine",
+      "title": "President",
+      "sessions": [
+        {
+          "sessionId": "34bce1ff-1aa5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Michael Lauk",
+      "initials": "DML",
+      "company": "B. Braun",
+      "title": "Chief Digital Officer",
+      "sessions": [
+        {
+          "sessionId": "566727dc-b39e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Nasheed Jamal",
+      "initials": "DNJ",
+      "company": "BIOSerenity",
+      "title": "Chief Marketing Officer",
+      "sessions": [
+        {
+          "sessionId": "d9a22c25-c19e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:15 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Nicolas Gatulle",
+      "initials": "DNG",
+      "company": "PaperDoc",
+      "title": "CEO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "acb487e3-d49e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Olivier Véran",
+      "initials": "DOV",
+      "company": "InnOV",
+      "title": "Former French Minister of Social Affairs and Health & Former Government Spokesperson & CEO & Founder of InnOV",
+      "sessions": [
+        {
+          "sessionId": "d9a22c25-c19e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:15 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Pierre Maret",
+      "initials": "DPM",
+      "company": "The QA Company",
+      "title": "Co-founder / Prof. Dr.",
+      "sessions": [
+        {
+          "sessionId": "d1d2a563-acaa-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:55 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Raphaëlle Parker",
+      "initials": "DRP",
+      "company": "Expert in AI for Health",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Sabine Klauke",
+      "initials": "DSK",
+      "company": "Airbus",
+      "title": "EVP HO Digital Design Manufacturing and Services",
+      "sessions": [
+        {
+          "sessionId": "a0510ff7-61a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:40 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Solène Vo Quang",
+      "initials": "DSVQ",
+      "company": "Hack Your Care",
+      "title": "Surgeon, CEO & Founder",
+      "sessions": [
+        {
+          "sessionId": "566727dc-b39e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Virginie Pichon",
+      "initials": "DVP",
+      "company": "Angers UHC",
+      "title": "Neurologist & Rare Disease Network Expert",
+      "sessions": [
+        {
+          "sessionId": "7d0ef6db-c49e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Wendy O'Brien",
+      "initials": "DWO",
+      "company": "United Nations Office on Drugs and Crime",
+      "title": "Technology & Innovation Advisor",
+      "sessions": [
+        {
+          "sessionId": "5bac2269-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:25 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Ed Lovely",
+      "initials": "EL",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "aab23d03-a3b4-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "2:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Edith Lemieux",
+      "initials": "EL",
+      "company": "Straightview France",
+      "title": "Moderator - Conversation Catalyst",
+      "sessions": [
+        {
+          "sessionId": "6c916305-d1b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:55 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Edouard Guillaud",
+      "initials": "EG",
+      "company": "Former French Chief Of Defence, JEDI Board Member",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "2251db6d-7aa3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Edouard Renoux",
+      "initials": "ER",
+      "company": "NVIDIA",
+      "title": "Retail & Transportation Lead France",
+      "sessions": [
+        {
+          "sessionId": "59b23b17-34be-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Eduardo Bosch",
+      "initials": "EB",
+      "company": "Louvre Hotels Group",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "3a09be43-c8ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Elina Ashkinazi-Ildis",
+      "initials": "EA",
+      "company": "ARTEFACT",
+      "title": "Partner",
+      "sessions": [
+        {
+          "sessionId": "6b029793-cea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Elisa Negra",
+      "initials": "EN",
+      "company": "Sparta Care",
+      "title": "Co-CEO & Co-founder",
+      "sessions": [
+        {
+          "sessionId": "f7f76a05-dfa8-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:10 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Ellen Berner",
+      "initials": "EB",
+      "company": "EcoDataCenter",
+      "title": "Head of Sustainability",
+      "sessions": [
+        {
+          "sessionId": "f4550e23-fcc3-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "4:50 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Emilie Gaudu",
+      "initials": "EG",
+      "company": "Lenovo",
+      "title": "Sales Director France, Lenovo Infrastructure Solutions Group",
+      "sessions": [
+        {
+          "sessionId": "a631993b-ccb8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "3:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Emilie Sidiqian",
+      "initials": "ES",
+      "company": "Salesforce France",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "09662975-36b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:45 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Emma Charles",
+      "initials": "EC",
+      "company": "Bristol Myers Squibb",
+      "title": "Senior Vice President European Markets",
+      "sessions": [
+        {
+          "sessionId": "b43cebab-c09e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "10:25 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Emma Sezen",
+      "initials": "ES",
+      "company": "ARTEFACT",
+      "title": "Co-Founder AI for Finance",
+      "sessions": [
+        {
+          "sessionId": "5defedcb-41a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "9:35 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Emmanuel Canes",
+      "initials": "EC",
+      "company": "Dell Technologies",
+      "title": "Healthcare & Life Sciences Director - Southern Europe",
+      "sessions": [
+        {
+          "sessionId": "16600321-df9e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Emmanuel Cox",
+      "initials": "EC",
+      "company": "SNCF Réseau",
+      "title": "Director of Strategy and Digital Transformation",
+      "sessions": [
+        {
+          "sessionId": "adeae17c-4fb0-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Emmanuel Lacharme",
+      "initials": "EL",
+      "company": "Alteryx",
+      "title": "Partner Sales Engineer",
+      "sessions": [
+        {
+          "sessionId": "4f76b0fb-9bc3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "10:10 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Emre Ozcan",
+      "initials": "EO",
+      "company": "Merck Group",
+      "title": "Global Head of Digital Health & Devices",
+      "sessions": [
+        {
+          "sessionId": "01854a11-b49e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "10:40 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Eric Bezille",
+      "initials": "EB",
+      "company": "DELL TECHNOLOGIES",
+      "title": "Senior Presales Manager, Systems Engineering - CTO Ambassador",
+      "sessions": [
+        {
+          "sessionId": "5809432a-85a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Eric Flipo",
+      "initials": "EF",
+      "company": "INGroupe",
+      "title": "Director of Industrial programs 4.0. and investments",
+      "sessions": [
+        {
+          "sessionId": "f79efafe-63ae-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Eric Sutherland",
+      "initials": "ES",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "9125b181-53ba-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "4:15 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Estelle Brachlianoff",
+      "initials": "EB",
+      "company": "VEOLIA",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "db8cbf37-e1b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "3:45 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Estelle Wienk",
+      "initials": "EW",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "84122de6-9fb5-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "10:35 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Etienne Bernard",
+      "initials": "EB",
+      "company": "NuMind",
+      "title": "CEO and Co-founder",
+      "sessions": [
+        {
+          "sessionId": "13e1f9fe-8faa-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:10 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Europe West Health Leader",
+      "initials": "EY",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a2f96db5-d79e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Evelyne Kratz",
+      "initials": "EK",
+      "company": "Health Sciences and Digital Health Senior Consultant & Speaker at E-health Conferences & Workshops & Digital Health Lecturer",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "51f09d78-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:25 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Faateh Dhillon",
+      "initials": "FD",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "822e5988-14c2-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "6:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Fabian Winter",
+      "initials": "FW",
+      "company": "MUNICH RE",
+      "title": "Chief Data and AI Officer",
+      "sessions": [
+        {
+          "sessionId": "18f1f374-c7a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Fabien Mangeant",
+      "initials": "FM",
+      "company": "Air Liquide",
+      "title": "Group Chief Data & AI Officer",
+      "sessions": [
+        {
+          "sessionId": "adeae17c-4fb0-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Fabien Poletti",
+      "initials": "FP",
+      "company": "AODOCS",
+      "title": "CTO / CPO",
+      "sessions": [
+        {
+          "sessionId": "427ccdb3-4ba4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Fabien Versavau",
+      "initials": "FV",
+      "company": "Ex-CEO Rakuten Group France and Tech & AI Advisor",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "ee4c6fa1-bba9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:25 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Fabrice Henry",
+      "initials": "FH",
+      "company": "Artefact",
+      "title": "Group COO",
+      "sessions": [
+        {
+          "sessionId": "4513830d-34b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:00 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Fanny Bouton",
+      "initials": "FB",
+      "company": "OVHcloud",
+      "title": "Quantum and Open Innovation Lead at OVHcloud and Co-Founder of France Quantum",
+      "sessions": [
+        {
+          "sessionId": "f83102e1-2abb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "5:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Félix Gouyer",
+      "initials": "FG",
+      "company": "ARTEFACT",
+      "title": "Senior Project Manager AI For Finance",
+      "sessions": [
+        {
+          "sessionId": "5defedcb-41a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "9:35 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Florence Bauprey",
+      "initials": "FB",
+      "company": "DATA LAB CREDIT AGRICOLE",
+      "title": "Manager of Projects management team, DataLab Groupe",
+      "sessions": [
+        {
+          "sessionId": "d0ba2392-91a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:40 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "FLORENCE BENEZIT",
+      "initials": "FB",
+      "company": "Artefact",
+      "title": "Data Consultant",
+      "sessions": [
+        {
+          "sessionId": "d0e1fbbc-b2bf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:25 PM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "2251db6d-7aa3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "b584b8a8-77a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:00 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Florence Bénézit",
+      "initials": "FB",
+      "company": "Artefact",
+      "title": "Modératrice - Data & AI Governance Expert",
+      "sessions": [
+        {
+          "sessionId": "1ed66301-c8b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "FLORENT BERNARD",
+      "initials": "FB",
+      "company": "Artefact",
+      "title": "Data Consultant",
+      "sessions": [
+        {
+          "sessionId": "cf54ab91-90c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "9:50 AM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "081650bf-edb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "215ed388-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "a8c51efe-81c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "46ebc5ac-0bc3-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "2:50 PM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "3a09be43-c8ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Florian Douetteau",
+      "initials": "FD",
+      "company": "DATAIKU",
+      "title": "CEO & Co-founder",
+      "sessions": [
+        {
+          "sessionId": "2788ee4d-dfb8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Florian Pappenberger",
+      "initials": "FP",
+      "company": "European Centre for Medium-Range Weather (ECMWF)",
+      "title": "Director of Forecasts and Services and Director - General (Elect)",
+      "sessions": [
+        {
+          "sessionId": "9aabf1f8-4ab3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "3:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Francesca Colombo",
+      "initials": "FC",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "bbd1c972-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:10 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Franck Bonnay",
+      "initials": "FB",
+      "company": "Google Cloud",
+      "title": "Key Account Director",
+      "sessions": [
+        {
+          "sessionId": "1087959e-82a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "6:20 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "François Cuny",
+      "initials": "FC",
+      "company": "Inria",
+      "title": "Deputy CEO for Innovation",
+      "sessions": [
+        {
+          "sessionId": "b883f5e7-62a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "François Lavernos",
+      "initials": "FL",
+      "company": "Renault Group",
+      "title": "Chief Information Officer Renault Brand and VP IS/IT Industry",
+      "sessions": [
+        {
+          "sessionId": "9fcbcc43-b5a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "François Mattens",
+      "initials": "FM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "b171b0c9-7ea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "François Sterin",
+      "initials": "FS",
+      "company": "Data4",
+      "title": "Chief Operating Officer",
+      "sessions": [
+        {
+          "sessionId": "fd97a7ba-faba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "François-Xavier Pierrel",
+      "initials": "FP",
+      "company": "TF1",
+      "title": "Group Chief Data & Adtech Officer",
+      "sessions": [
+        {
+          "sessionId": "8aaa7cbd-bca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Frédéric Grappe",
+      "initials": "FG",
+      "company": "Groupama FDJ",
+      "title": "Director of Performance and Innovation",
+      "sessions": [
+        {
+          "sessionId": "4be8e60e-7eb5-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Frédéric Parmentier",
+      "initials": "FP",
+      "company": "Ariana Pharma",
+      "title": "Vice President Data Science",
+      "sessions": [
+        {
+          "sessionId": "bb4ff22e-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:40 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Frédéric Vincent",
+      "initials": "FV",
+      "company": "Renault Group",
+      "title": "Chief Digital & Information Officer",
+      "sessions": [
+        {
+          "sessionId": "9b7a0a05-b8bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:00 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Fulvio Michelis",
+      "initials": "FM",
+      "company": "Merck",
+      "title": "Digital Health Product Owner for Global Digital Health",
+      "sessions": [
+        {
+          "sessionId": "9ca95777-da9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Gabriel Hubert",
+      "initials": "GH",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "3ade918d-e0a9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Geoffroy Perrin",
+      "initials": "GP",
+      "company": "Norma",
+      "title": "Co-founder, Software engineer",
+      "sessions": [
+        {
+          "sessionId": "83ef973e-eaad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:20 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Georgios Kolovos",
+      "initials": "GK",
+      "company": "NVIDIA",
+      "title": "Payments & FinTech Leader",
+      "sessions": [
+        {
+          "sessionId": "1bd4419a-e3b1-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:15 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Gerhard Kreß",
+      "initials": "GK",
+      "company": "Siemens",
+      "title": "Senior Vice President Siemens Xcelerator Portfolio and Digital Business",
+      "sessions": [
+        {
+          "sessionId": "9fcbcc43-b5a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Germán Garitaonaindia de Vera",
+      "initials": "GGDV",
+      "company": "BANCO SABADELL",
+      "title": "Chief Cognitive AI Officer",
+      "sessions": [
+        {
+          "sessionId": "1bc34130-35b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Ghassan Abumohssin",
+      "initials": "GA",
+      "company": "Aramco",
+      "title": "Computer & Communication Specialist",
+      "sessions": [
+        {
+          "sessionId": "a56a2bc7-ebbe-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Ghislain Lefebvre",
+      "initials": "GL",
+      "company": "TREASURE DATA",
+      "title": "Senior Strategic Account Executive, South Europe",
+      "sessions": [
+        {
+          "sessionId": "65df0516-88a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:05 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Giancarlo Miluccio",
+      "initials": "GM",
+      "company": "Unibail-Rodamco-Westfield",
+      "title": "Chief Data & Digital Officer",
+      "sessions": [
+        {
+          "sessionId": "d171cd95-aca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Gianluca Simeone",
+      "initials": "GS",
+      "company": "Capgemini",
+      "title": "VP - Global SAP CTIO and Gen-AI Leader",
+      "sessions": [
+        {
+          "sessionId": "ca590768-72c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "Masterclass North"
+        },
+        {
+          "sessionId": "40b97bd3-72c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:25 PM",
+          "stage": "Masterclass North"
+        },
+        {
+          "sessionId": "24a63f2e-73c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Gilles Karlé",
+      "initials": "GK",
+      "company": "Kiwi.com",
+      "title": "Chief Operating Officer",
+      "sessions": [
+        {
+          "sessionId": "e26cc8f4-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Gonzague De Pirey",
+      "initials": "GDP",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "1a8e362c-fcc3-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "6:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Grazyna Piesiewicz",
+      "initials": "GP",
+      "company": "European Commission",
+      "title": "Head of Unit for High Performance Computing and Applications (DG CONNECT)",
+      "sessions": [
+        {
+          "sessionId": "9aabf1f8-4ab3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "3:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Grégoire Mariot",
+      "initials": "GM",
+      "company": "Strat37",
+      "title": "CTO and Co-founder",
+      "sessions": [
+        {
+          "sessionId": "b929851e-dfa8-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:30 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Gualtiero Bazzana",
+      "initials": "GB",
+      "company": "Alten",
+      "title": "CAIO, EVP and COMEX member",
+      "sessions": [
+        {
+          "sessionId": "9d77354b-5fc4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "12:50 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Guilhaume Leroy-Meline",
+      "initials": "GL",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "fa027a35-b9a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Guillaume Bour",
+      "initials": "GB",
+      "company": "MISTRAL AI",
+      "title": "Head of Enterprise Sales EMEA",
+      "sessions": [
+        {
+          "sessionId": "18f1f374-c7a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Guillaume Faury",
+      "initials": "GF",
+      "company": "AIRBUS",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "28cc3743-1eb8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:30 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Guillaume Lesage",
+      "initials": "GL",
+      "company": "AMUNDI",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "04fd5d45-24a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Guillaume Poulain",
+      "initials": "GP",
+      "company": "Eventiz",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "822e5988-14c2-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "6:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Guillaume Princen",
+      "initials": "GP",
+      "company": "ANTHROPIC",
+      "title": "Head of EMEA",
+      "sessions": [
+        {
+          "sessionId": "61b07c85-c9a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Guillaume Texier",
+      "initials": "GT",
+      "company": "Rexel Group",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "56fccf0e-99b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "3:50 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Habib Messaoudi",
+      "initials": "HM",
+      "company": "KYNDRYL",
+      "title": "Vice President, Kyndryl France, Practice Leader for Cloud, Applications, Data & AI",
+      "sessions": [
+        {
+          "sessionId": "5809432a-85a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Hakim Dridi",
+      "initials": "HD",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a0c315b8-76a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:00 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Hanania Ouazan",
+      "initials": "HO",
+      "company": "Artefact",
+      "title": "Data Scientist",
+      "sessions": [
+        {
+          "sessionId": "22e462c4-22c3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "4:40 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Hani Hagras",
+      "initials": "HH",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "60dc374b-1ab0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "5:15 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Hannah SON",
+      "initials": "HS",
+      "company": "Travel in your Pocket",
+      "title": "Founder",
+      "sessions": [
+        {
+          "sessionId": "82098bd2-d9ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:30 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Hannes Klöpper",
+      "initials": "HK",
+      "company": "HelloBetter",
+      "title": "CEO & Founder",
+      "sessions": [
+        {
+          "sessionId": "e80bd164-d7a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:55 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Hans De Cuyper",
+      "initials": "HDC",
+      "company": "Ageas",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "3f3bdb5e-30b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Harrison Cook",
+      "initials": "HC",
+      "company": "ECMWF",
+      "title": "Research Software Engineer",
+      "sessions": [
+        {
+          "sessionId": "c6951b66-1abe-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:55 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Hasti Honari",
+      "initials": "HH",
+      "company": "Institut Curie",
+      "title": "PhD Candidate",
+      "sessions": [
+        {
+          "sessionId": "37f51ddb-dc9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "5:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Head of Wealth Management France",
+      "initials": "UBS",
+      "company": "AODocs",
+      "title": "Figen AI",
+      "sessions": [
+        {
+          "sessionId": "427ccdb3-4ba4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Hedi Ben Brahim",
+      "initials": "HBB",
+      "company": "One Biosciences",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "bb4ff22e-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:40 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Hela Ghariani",
+      "initials": "HG",
+      "company": "French Ministerial Delegation for e-Heath",
+      "title": "Co-Head",
+      "sessions": [
+        {
+          "sessionId": "d694f6ea-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:20 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Hélène Bringer",
+      "initials": "HB",
+      "company": "S3NS",
+      "title": "Présidente",
+      "sessions": [
+        {
+          "sessionId": "981d2833-dcb8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "9:57 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Hélène Macela-Gouin",
+      "initials": "HM",
+      "company": "Schneider Electric",
+      "title": "Vice President, Secure Power and Data Center Business, France",
+      "sessions": [
+        {
+          "sessionId": "a0c315b8-76a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:00 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Henry Jenkins",
+      "initials": "HJ",
+      "company": "S&P GLOBAL",
+      "title": "Head of Partnerships",
+      "sessions": [
+        {
+          "sessionId": "9849e283-95a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:15 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Hicham Temsamani",
+      "initials": "HT",
+      "company": "H.B.T Group France",
+      "title": "Principal",
+      "sessions": [
+        {
+          "sessionId": "16600321-df9e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Howard Wright",
+      "initials": "HW",
+      "company": "NVIDIA",
+      "title": "VP, Startup Ecosystem",
+      "sessions": [
+        {
+          "sessionId": "c49d4370-a0b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Hugo Ceulemans",
+      "initials": "HC",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "title": "Senior Director - Drug Discovery Data Sciences",
+      "sessions": [
+        {
+          "sessionId": "d694f6ea-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:20 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Hugues Even",
+      "initials": "HE",
+      "company": "BNP PARIBAS",
+      "title": "Chief Data Officer",
+      "sessions": [
+        {
+          "sessionId": "18f1f374-c7a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Ian Sandholm",
+      "initials": "IS",
+      "company": "Scania",
+      "title": "Senior Manager: Process Automation",
+      "sessions": [
+        {
+          "sessionId": "1e6c2b50-54ab-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Imogen Marouillat",
+      "initials": "IM",
+      "company": "Merck",
+      "title": "Head of Solution Delivery for Global Digital Health",
+      "sessions": [
+        {
+          "sessionId": "9ca95777-da9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Ines Besbes",
+      "initials": "IB",
+      "company": "SEEDEXT",
+      "title": "Founder & CEO",
+      "sessions": [
+        {
+          "sessionId": "427ccdb3-4ba4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Jacques Adoue",
+      "initials": "JA",
+      "company": "Edenred",
+      "title": "EVP, Human Resources and Corporate Social Responsibility",
+      "sessions": [
+        {
+          "sessionId": "1ed66301-c8b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Jai’ Amir Ramjankhan",
+      "initials": "JAR",
+      "company": "Apura Cloud",
+      "title": "Co Founder",
+      "sessions": [
+        {
+          "sessionId": "c3cb708c-d2ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:20 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Jamal Atif",
+      "initials": "JA",
+      "company": "IP Paris",
+      "title": "VP Recherche et Innovation",
+      "sessions": [
+        {
+          "sessionId": "509e4abe-2fbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "5:19 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Jan Beger",
+      "initials": "JB",
+      "company": "GE HealthCare",
+      "title": "Global Head of AI Advocacy",
+      "sessions": [
+        {
+          "sessionId": "07aaf0b7-d49e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "10:25 AM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "7ca11088-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:50 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Jason Peisl",
+      "initials": "JP",
+      "company": "Pepkor Group",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "3f4b5fb6-cfc4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "5:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Jawad ALAOUI",
+      "initials": "JA",
+      "company": "NORMA",
+      "title": "CEO, founder",
+      "sessions": [
+        {
+          "sessionId": "83ef973e-eaad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:20 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Cedric Costa",
+      "initials": "JC",
+      "company": "La Redoute",
+      "title": "Chief Information Officer",
+      "sessions": [
+        {
+          "sessionId": "00081d94-b5a9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Côme Renaudin",
+      "initials": "JR",
+      "company": "Schneider Electric",
+      "title": "Global Data & AI Academy Director",
+      "sessions": [
+        {
+          "sessionId": "6c916305-d1b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:55 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Jean-François Mazaud",
+      "initials": "JM",
+      "company": "MORGAN STANLEY",
+      "title": "Chief Operating Officer France & Managing Director",
+      "sessions": [
+        {
+          "sessionId": "04f8ee95-a2ba-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "9:50 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Jean-François Tarabbia",
+      "initials": "JT",
+      "company": "Aumovio",
+      "title": "Member of the Executive Board of AUMOVIO, Head of Architecture and Network Solutions",
+      "sessions": [
+        {
+          "sessionId": "1087959e-82a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "6:20 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Marie Tassy Simeoni",
+      "initials": "JTS",
+      "company": "Agentics Foundation France",
+      "title": "Cofounder at Agentics Foundation GEOmaestros AI",
+      "sessions": [
+        {
+          "sessionId": "9fcbcc43-b5a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:25 PM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "fa027a35-b9a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Philippe Desbiolles",
+      "initials": "JD",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "23227f41-b5b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "2:30 PM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "0277725c-94a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Roch Houllier",
+      "initials": "JH",
+      "company": "Safran",
+      "title": "Head of Operations, Learning & Digital",
+      "sessions": [
+        {
+          "sessionId": "0b686289-cfb8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Stéphane Didier",
+      "initials": "JD",
+      "company": "Léon Grosse",
+      "title": "Managing Director, Construction",
+      "sessions": [
+        {
+          "sessionId": "a8c51efe-81c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Jean-Yves Delannoy",
+      "initials": "JD",
+      "company": "Arkema",
+      "title": "Digital R&D Scientific Director",
+      "sessions": [
+        {
+          "sessionId": "fa027a35-b9a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Jens de Buhr",
+      "initials": "JDB",
+      "company": "Big Bang AI Festival",
+      "title": "Founder",
+      "sessions": [
+        {
+          "sessionId": "071dc803-79c5-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "5:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Jeremie Cornet-Vuckovic",
+      "initials": "JC",
+      "company": "ARTEFACT",
+      "title": "Partner",
+      "sessions": [
+        {
+          "sessionId": "a31655e7-66b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "1bd4419a-e3b1-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:15 AM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "68d40187-4ca4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Jéremie Profeta",
+      "initials": "JP",
+      "company": "Sonepar",
+      "title": "Chief Transformation Officer & Executive Committee Member",
+      "sessions": [
+        {
+          "sessionId": "f923b53b-e3a8-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:15 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Jerry Sheehan",
+      "initials": "JS",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "5bac2269-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:25 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Joffrey Martinez",
+      "initials": "JM",
+      "company": "ARTEFACT",
+      "title": "Managing Partner Global Financial Services Lead",
+      "sessions": [
+        {
+          "sessionId": "992f1bda-c4a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "9:50 AM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "c75c4439-cba3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:25 PM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "04f8ee95-a2ba-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "9:50 AM",
+          "stage": "Mainstage South"
+        },
+        {
+          "sessionId": "3f3bdb5e-30b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Johan Rivalland",
+      "initials": "JR",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "427ccdb3-4ba4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Johannes Brandstetter",
+      "initials": "JB",
+      "company": "Emmi AI",
+      "title": "Co-founder & Chief Scientist",
+      "sessions": [
+        {
+          "sessionId": "b883f5e7-62a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Johannes Thomas",
+      "initials": "JT",
+      "company": "Trivago",
+      "title": "Managing Director & CEO",
+      "sessions": [
+        {
+          "sessionId": "e26cc8f4-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "John W.H. Denton AO",
+      "initials": "JWDA",
+      "company": "International Chamber of Commerce",
+      "title": "Secretary General",
+      "sessions": [
+        {
+          "sessionId": "123fab22-63c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:50 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Jorissa Neutelings",
+      "initials": "JN",
+      "company": "ABN AMRO",
+      "title": "Chief Digital Officer",
+      "sessions": [
+        {
+          "sessionId": "c75c4439-cba3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:25 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Jos Gheerardyn",
+      "initials": "JG",
+      "company": "Yields",
+      "title": "CEO and Founder",
+      "sessions": [
+        {
+          "sessionId": "e70e6438-61a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:30 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "José Valino Blanco",
+      "initials": "JVB",
+      "company": "ABANCA BANKING CORPORATION",
+      "title": "Chief Tech & Operations Officer",
+      "sessions": [
+        {
+          "sessionId": "80a17e9b-48a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Julie Huguet",
+      "initials": "JH",
+      "company": "Mission French Tech",
+      "title": "Director",
+      "sessions": [
+        {
+          "sessionId": "04d15c9f-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Julien Billot",
+      "initials": "JB",
+      "company": "Scale AI",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "123fab22-63c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:50 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Julien Nicolas",
+      "initials": "JN",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "04d15c9f-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:40 PM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "9b7a0a05-b8bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:00 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Julien Stalla-Bourdillon",
+      "initials": "JS",
+      "company": "Artefact",
+      "title": "Partner Energy, Utilities & Chemicals industries",
+      "sessions": [
+        {
+          "sessionId": "9b7a0a05-b8bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:00 PM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "fc8914b6-78a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:37 PM",
+          "stage": ""
+        }
+      ]
+    },
+    {
+      "name": "Kaoutar Sghiouer",
+      "initials": "KS",
+      "company": "Sanofi",
+      "title": "Group Chief Data & AI Officer",
+      "sessions": [
+        {
+          "sessionId": "f4645ec8-df9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "6:00 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Karim Beguir",
+      "initials": "KB",
+      "company": "InstaDeep",
+      "title": "Co-founder and CEO",
+      "sessions": [
+        {
+          "sessionId": "b584b8a8-77a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:00 AM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "b37eece1-60c4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "11:25 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Ken-Ichiro Nastsume",
+      "initials": "KN",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "5bac2269-5cba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:25 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Kevin Carvalho",
+      "initials": "KC",
+      "company": "DeepLife",
+      "title": "Head of Partnerships",
+      "sessions": [
+        {
+          "sessionId": "bb4ff22e-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:40 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Khalid Ahmadi",
+      "initials": "KA",
+      "company": "ARAMCO",
+      "title": "Director of Digital Finance",
+      "sessions": [
+        {
+          "sessionId": "c76ff5c8-7ebd-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Kris Wulteputte",
+      "initials": "KW",
+      "company": "Bunq",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "1130f021-3bb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Laurent Bordes",
+      "initials": "LB",
+      "company": "Miranui",
+      "title": "Senior Manager - Cloud & DevOps",
+      "sessions": [
+        {
+          "sessionId": "0e2ea0ac-cead-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:10 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Laurent Degré",
+      "initials": "LD",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "97eed054-cdbf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:05 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Laurent Prud’hon",
+      "initials": "LP",
+      "company": "CRÉDIT MUTUEL",
+      "title": "Directeur cognitive factory Crédit Mutuel",
+      "sessions": [
+        {
+          "sessionId": "0277725c-94a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Laurent Thiers",
+      "initials": "LT",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "d72f4726-88c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Léa Giroulet",
+      "initials": "LG",
+      "company": "Artefact",
+      "title": "Consulting Manager",
+      "sessions": [
+        {
+          "sessionId": "852adb97-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Leif Vase Larsen",
+      "initials": "LVL",
+      "company": "Dertour Group",
+      "title": "CEO International",
+      "sessions": [
+        {
+          "sessionId": "3a09be43-c8ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Linda Cereda",
+      "initials": "LC",
+      "company": "Artefact",
+      "title": "Advisor & Ex-Nike, Global VP Marketing Data",
+      "sessions": [
+        {
+          "sessionId": "ee4c6fa1-bba9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:25 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Linda Lescuyer",
+      "initials": "LL",
+      "company": "Data4",
+      "title": "Head of Environment & Sustainable Innovation",
+      "sessions": [
+        {
+          "sessionId": "f4550e23-fcc3-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "4:50 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Line Linstad",
+      "initials": "LL",
+      "company": "Norwegian Centre for E-health Research",
+      "title": "Director",
+      "sessions": [
+        {
+          "sessionId": "9125b181-53ba-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "4:15 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Lionel Mannucci",
+      "initials": "LM",
+      "company": "AS Monaco FC",
+      "title": "IT Director",
+      "sessions": [
+        {
+          "sessionId": "4be8e60e-7eb5-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Lionel Tarassenko",
+      "initials": "LT",
+      "company": "University of Oxford",
+      "title": "Professor",
+      "sessions": [
+        {
+          "sessionId": "01a4fb3d-31bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "5:34 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Loïc Bachelart",
+      "initials": "LB",
+      "company": "Microsoft France",
+      "title": "Customer Success Lead and COMEX member Microsoft France",
+      "sessions": [
+        {
+          "sessionId": "d9b7ddd3-3ac3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "3:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Loïc Chabanier",
+      "initials": "LC",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a2f96db5-d79e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Lorenzo Croati",
+      "initials": "LC",
+      "company": "Artefact",
+      "title": "Founder AI for Sport - Partner Artefact, Lead Open Innovation",
+      "sessions": [
+        {
+          "sessionId": "775733b2-5cbe-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "2:05 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Lubomira Rochet",
+      "initials": "LR",
+      "company": "SOCIÉTÉ GÉNÉRALE",
+      "title": "Executive Vice President in charge of Retail Banking activities in France, Private Banking and Insurance Group's Chief Operating Office",
+      "sessions": [
+        {
+          "sessionId": "992f1bda-c4a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "9:50 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Luc Barnaud",
+      "initials": "LB",
+      "company": "GROUPE BPCE",
+      "title": "Chief AI & Data Officer",
+      "sessions": [
+        {
+          "sessionId": "31f7e721-8ca4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Luc Dammann",
+      "initials": "LD",
+      "company": "ADOBE",
+      "title": "President, EMEA",
+      "sessions": [
+        {
+          "sessionId": "a9b1269b-2cb7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:30 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Lucile Foucart",
+      "initials": "LF",
+      "company": "Adobe",
+      "title": "VP Sales France",
+      "sessions": [
+        {
+          "sessionId": "00081d94-b5a9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Lucy Barclay",
+      "initials": "LB",
+      "company": "Asana",
+      "title": "Senior Director of Global Field and Partner Marketing",
+      "sessions": [
+        {
+          "sessionId": "85ed1f8d-26be-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "3:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Mahdi Aladel",
+      "initials": "MA",
+      "company": "Aramco Ventures",
+      "title": "Chief Executive Officer Aramco Ventures",
+      "sessions": [
+        {
+          "sessionId": "edde3c20-f8ba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:32 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Manik Sharma",
+      "initials": "MS",
+      "company": "Celonis",
+      "title": "SVP Supply Chain",
+      "sessions": [
+        {
+          "sessionId": "9fcbcc43-b5a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Manish Sarkar",
+      "initials": "MS",
+      "company": "MedInsights",
+      "title": "Head of Business development",
+      "sessions": [
+        {
+          "sessionId": "ca4aff51-5eb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:55 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Manoj Gupta",
+      "initials": "MG",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a9ad8bbe-eabf-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:40 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Marc de Bourcy",
+      "initials": "MDB",
+      "company": "THE GOVERNMENT OF THE GRAND-DUCHY OF LUXEMBOURG",
+      "title": "Special Adviser",
+      "sessions": [
+        {
+          "sessionId": "46d4b4ad-cca3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Marc Deloger",
+      "initials": "MD",
+      "company": "Institut Gustave Roussy",
+      "title": "Data Team Lead",
+      "sessions": [
+        {
+          "sessionId": "16600321-df9e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Marc O'Regan",
+      "initials": "MO",
+      "company": "Dell Technologies",
+      "title": "CTO, EMEA",
+      "sessions": [
+        {
+          "sessionId": "b584b8a8-77a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:00 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Marco Giannitrapani",
+      "initials": "MG",
+      "company": "Novartis",
+      "title": "Vice President Global Data & Analytics",
+      "sessions": [
+        {
+          "sessionId": "b2d11f3a-dc9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "3:05 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "MARGAUX SIDNEY ZEDER",
+      "initials": "MSZ",
+      "company": "Artefact",
+      "title": "Data Consultant",
+      "sessions": [
+        {
+          "sessionId": "759c5c90-20be-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:00 AM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "e26cc8f4-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Marie Cuesta",
+      "initials": "MC",
+      "company": "SNOWFLAKE",
+      "title": "Partner Development Manager AWS & Microsoft",
+      "sessions": [
+        {
+          "sessionId": "97d0da9f-35c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:30 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Marie Ekeland",
+      "initials": "ME",
+      "company": "2050",
+      "title": "Founder & CEO",
+      "sessions": [
+        {
+          "sessionId": "6b029793-cea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Marie Morice-Morand",
+      "initials": "MM",
+      "company": "Amgen",
+      "title": "Associate Director of Innovation & Digital",
+      "sessions": [
+        {
+          "sessionId": "acb487e3-d49e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Marie-Aude Thépaut",
+      "initials": "MT",
+      "company": "CNP Assurances",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "4513830d-34b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:00 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Marie-Christine Lombard",
+      "initials": "ML",
+      "company": "GEODIS",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "bc43316b-1db8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:40 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Marion Abecassis",
+      "initials": "MA",
+      "company": "DLA Piper",
+      "title": "Attorney, Counsel in Life Sciences",
+      "sessions": [
+        {
+          "sessionId": "bbd1c972-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:10 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Markus Grau",
+      "initials": "MG",
+      "company": "PURESTORAGE",
+      "title": "CTO Fields",
+      "sessions": [
+        {
+          "sessionId": "aa868624-19b9-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Markus Reinisch",
+      "initials": "MR",
+      "company": "Meta",
+      "title": "Vice President for Public Policy in Europe",
+      "sessions": [
+        {
+          "sessionId": "8bed849f-5bba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Marsal Gavaldà",
+      "initials": "MG",
+      "company": "CLARITY AI",
+      "title": "Chief Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "61b07c85-c9a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Martin Willcox",
+      "initials": "MW",
+      "company": "TERADATA",
+      "title": "SVP WW Sales Analytics",
+      "sessions": [
+        {
+          "sessionId": "80a17e9b-48a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Massimo Cavazzini",
+      "initials": "MC",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "379eae29-68c4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Mathilda Ström",
+      "initials": "MS",
+      "company": "Bioptimus",
+      "title": "Founding Chief Operating Officer",
+      "sessions": [
+        {
+          "sessionId": "b43cebab-c09e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "10:25 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Matthew Chantry",
+      "initials": "MC",
+      "company": "ECMWF",
+      "title": "Strategic Lead for Machine Learning and Head of the Innovation Platform",
+      "sessions": [
+        {
+          "sessionId": "c6951b66-1abe-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:55 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Matthew Smithson",
+      "initials": "MS",
+      "company": "MyWhoosh",
+      "title": "Director of Esports & Game Operations",
+      "sessions": [
+        {
+          "sessionId": "a6f44d79-9ab5-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "3:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Matthias Keller",
+      "initials": "MK",
+      "company": "KAYAK",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "e26cc8f4-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Matthieu Myszak",
+      "initials": "MM",
+      "company": "ARTEFACT",
+      "title": "Partner - Data & AI Consulting",
+      "sessions": [
+        {
+          "sessionId": "61b07c85-c9a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Mauro Arruda",
+      "initials": "MA",
+      "company": "LENOVO",
+      "title": "EMEA Director, AI CoE",
+      "sessions": [
+        {
+          "sessionId": "1bd4419a-e3b1-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:15 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Maxime Hambersin",
+      "initials": "MH",
+      "company": "DOCUSIGN",
+      "title": "Head of Product International",
+      "sessions": [
+        {
+          "sessionId": "1bc34130-35b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Maxime Marembaud",
+      "initials": "MM",
+      "company": "Sodexo",
+      "title": "Group Chief Data & Digital Officer",
+      "sessions": [
+        {
+          "sessionId": "1a151a91-adc4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "10:00 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Meriem Riadi",
+      "initials": "MR",
+      "company": "Veolia",
+      "title": "Chief Information Officer, Veolia France – Water Division",
+      "sessions": [
+        {
+          "sessionId": "9fcbcc43-b5a2-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:25 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Michael Brehm",
+      "initials": "MB",
+      "company": "REDSTONE",
+      "title": "General Partner & Founder",
+      "sessions": [
+        {
+          "sessionId": "6b029793-cea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Michael Harrell",
+      "initials": "MH",
+      "company": "Tomtom",
+      "title": "SVP Engineering Maps",
+      "sessions": [
+        {
+          "sessionId": "59c2916a-81a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "5:22 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Mickael Brossard",
+      "initials": "MB",
+      "company": "Thales",
+      "title": "VP CortAIx Factory, AI by Thales",
+      "sessions": [
+        {
+          "sessionId": "cf8b3ee7-29c3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "5:10 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Mihir Sarkar",
+      "initials": "MS",
+      "company": "Engie",
+      "title": "Chief AI Officer",
+      "sessions": [
+        {
+          "sessionId": "b883f5e7-62a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Mike Mattacola",
+      "initials": "MM",
+      "company": "Coreweave",
+      "title": "General Manager, International",
+      "sessions": [
+        {
+          "sessionId": "227867df-aec0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:05 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Mohamed-Ramzi Temanni",
+      "initials": "MT",
+      "company": "Senior Leader in Bioinformatics, Data & AI",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "acb487e3-d49e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Mohammed Alharthi",
+      "initials": "MA",
+      "company": "Aramco",
+      "title": "Computer Operating Systems Analyst",
+      "sessions": [
+        {
+          "sessionId": "763edbf8-eabe-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:30 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Morgan Zimmermann",
+      "initials": "MZ",
+      "company": "Dassault Systèmes",
+      "title": "CEO of 3DEXPERIENCE",
+      "sessions": [
+        {
+          "sessionId": "08d8fab3-edbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:10 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Mosleh Uddin",
+      "initials": "MU",
+      "company": "Gigalogy",
+      "title": "Founder & CEO",
+      "sessions": [
+        {
+          "sessionId": "4af76f9d-b4a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:10 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Mostafa Amer",
+      "initials": "MA",
+      "company": "Aramco",
+      "title": "Computer & Communication Specialist",
+      "sessions": [
+        {
+          "sessionId": "778c4a44-eabe-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Nabil Al Nuaim",
+      "initials": "NAN",
+      "company": "Aramco Digital",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "d1ed1c4d-30bf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:00 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Nacim Rahal",
+      "initials": "NR",
+      "company": "Doctolib",
+      "title": "Vice President, Data & AI",
+      "sessions": [
+        {
+          "sessionId": "e6f03468-d59e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Naida Nguyen",
+      "initials": "NN",
+      "company": "Asana",
+      "title": "Solution Consultant",
+      "sessions": [
+        {
+          "sessionId": "f5b7c5a6-b7a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:45 AM",
+          "stage": ""
+        }
+      ]
+    },
+    {
+      "name": "Nathalie Beslay",
+      "initials": "NB",
+      "company": "NAAIA",
+      "title": "Co-Founder & CEO",
+      "sessions": [
+        {
+          "sessionId": "a31655e7-66b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Nathaniel Ives",
+      "initials": "NI",
+      "company": "NVIDIA",
+      "title": "Director Enterprise NVIDIA France",
+      "sessions": [
+        {
+          "sessionId": "3319eac4-21b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:10 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Neil Zeghidour",
+      "initials": "NZ",
+      "company": "KYUTAi",
+      "title": "Co-Founder, Chief Modelling Officer",
+      "sessions": [
+        {
+          "sessionId": "d72f4726-88c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "nicolas Declerq",
+      "initials": "ND",
+      "company": "Namkin",
+      "title": "CEO of Namkin and founder of Iteraa",
+      "sessions": [
+        {
+          "sessionId": "3cf1b555-56c5-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "1:05 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Nicolas Lambret",
+      "initials": "NL",
+      "company": "Adobe",
+      "title": "Solutions Consultant",
+      "sessions": [
+        {
+          "sessionId": "dd831347-02b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:05 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Nicolas Meric",
+      "initials": "NM",
+      "company": "SOCIÉTÉ GÉNÉRALE",
+      "title": "CEO SOCGEN AI",
+      "sessions": [
+        {
+          "sessionId": "8414f8c3-89a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:35 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Nicolas Namias",
+      "initials": "NN",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "2b2e5516-a5aa-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "9:30 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Olha Afanasyeva",
+      "initials": "OA",
+      "company": "ITERA",
+      "title": "Head of International Growth",
+      "sessions": [
+        {
+          "sessionId": "80a17e9b-48a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Olivier Biton",
+      "initials": "OB",
+      "company": "CRÉDIT AGRICOLE",
+      "title": "Group CIO",
+      "sessions": [
+        {
+          "sessionId": "61b07c85-c9a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Olivier Gavalda",
+      "initials": "OG",
+      "company": "Crédit Agricole",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "09662975-36b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:45 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Olivier Kuffler",
+      "initials": "OK",
+      "company": "Amadeus IT Group",
+      "title": "AI Program Director",
+      "sessions": [
+        {
+          "sessionId": "af9d6a58-09b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:20 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Olivier Laureau",
+      "initials": "OL",
+      "company": "Servier",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "46424155-84af-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:40 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "802ef506-c69e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Olivier Sichel",
+      "initials": "OS",
+      "company": "Caisse des Dépôts Group",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "09662975-36b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:45 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Omid Hajishirmohammadi",
+      "initials": "OH",
+      "company": "4 Earth 2 Mars Holding B.V.",
+      "title": "Representative",
+      "sessions": [
+        {
+          "sessionId": "cfb3d49a-b7a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:10 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Orlane Berlaud",
+      "initials": "OB",
+      "company": "ARKANGE",
+      "title": "COO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "822e5988-14c2-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "6:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Oussama Ghanmi",
+      "initials": "OG",
+      "company": "Dinmo",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "4c43d28b-8ab6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:50 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Pascal Denis",
+      "initials": "PD",
+      "company": "DELOITTE",
+      "title": "Financial Services Senior Partner, Chief Strategy Officer Deloitte Continental Europe",
+      "sessions": [
+        {
+          "sessionId": "4d397e07-44a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Pascal Guillemin",
+      "initials": "PG",
+      "company": "Cegid",
+      "title": "Global Chief Human Resources Officer",
+      "sessions": [
+        {
+          "sessionId": "1ed66301-c8b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Pascaline Villié",
+      "initials": "PV",
+      "company": "AP-HP",
+      "title": "Project Director, Innovation & Data Division",
+      "sessions": [
+        {
+          "sessionId": "c69f411d-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "10:10 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Patrice Barbedette",
+      "initials": "PB",
+      "company": "EasyVista",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "fd97a7ba-faba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Aufort",
+      "initials": "PA",
+      "company": "Agence de l'innovation de défense",
+      "title": "Director",
+      "sessions": [
+        {
+          "sessionId": "b171b0c9-7ea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Pérez",
+      "initials": "PP",
+      "company": "Kyutai",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "d694f6ea-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:20 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Patrick Pouyanné",
+      "initials": "PP",
+      "company": "TotalEnergies",
+      "title": "Chairman & CEO of TotalEnergies",
+      "sessions": [
+        {
+          "sessionId": "cc29200c-37b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "10:15 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Paul de Balincourt",
+      "initials": "PDB",
+      "company": "Artefact",
+      "title": "Partner",
+      "sessions": [
+        {
+          "sessionId": "d694f6ea-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:20 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Paul Hudson",
+      "initials": "PH",
+      "company": "Sanofi",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "9814667e-7eaf-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:05 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Paul Midy",
+      "initials": "PM",
+      "company": "National Assembly",
+      "title": "Member of the French National Assembly",
+      "sessions": [
+        {
+          "sessionId": "fd97a7ba-faba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Paul Rinaudo",
+      "initials": "PR",
+      "company": "ADLIN Science",
+      "title": "CEO & Founder",
+      "sessions": [
+        {
+          "sessionId": "446b62a1-bf9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:45 AM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "0b8826a5-5cb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "2:55 PM",
+          "stage": "Startup Stage"
+        },
+        {
+          "sessionId": "bb4ff22e-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:40 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Paul S. Addison",
+      "initials": "PSA",
+      "company": "Medtronic",
+      "title": "Chief Scientist for Data Science & AI",
+      "sessions": [
+        {
+          "sessionId": "d694f6ea-29b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:20 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Pauline Thomson",
+      "initials": "PT",
+      "company": "ARDIAN",
+      "title": "Head of Data Science & Managing Director Infrastructure",
+      "sessions": [
+        {
+          "sessionId": "6b029793-cea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Pedro Moreno Lahore",
+      "initials": "PML",
+      "company": "NVIDIA",
+      "title": "NVIDIA automotive Global Account Director",
+      "sessions": [
+        {
+          "sessionId": "f7beb0ee-44c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:30 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Peter Schardt",
+      "initials": "PS",
+      "company": "Siemens Healthineers",
+      "title": "Chief Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "d9a22c25-c19e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:15 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Phil Newman",
+      "initials": "PN",
+      "company": "www.Longevity.Technology",
+      "title": "Founder and CEO",
+      "sessions": [
+        {
+          "sessionId": "27c3a495-5cc5-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "3:00 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Philippe Aghion",
+      "initials": "PA",
+      "company": "2025 Nobel Memorial Prize in Economic Sciences",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "b15235cc-2db7-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "9:45 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Philippe Charpentier",
+      "initials": "PC",
+      "company": "NETAPP",
+      "title": "Director of Solutions Engineering",
+      "sessions": [
+        {
+          "sessionId": "323d6e09-8ea4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "5:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Philippe Keryer",
+      "initials": "PK",
+      "company": "Thales",
+      "title": "Senior Executive Vice President Strategy, Research and Technology",
+      "sessions": [
+        {
+          "sessionId": "b171b0c9-7ea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Philippe Magarshack",
+      "initials": "PM",
+      "company": "STMicroelectronics",
+      "title": "Microcontrollers, Digital and RF Products Group, Strategy VP",
+      "sessions": [
+        {
+          "sessionId": "b584b8a8-77a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:00 AM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "f4550e23-fcc3-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "4:50 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Piero Sierra",
+      "initials": "PS",
+      "company": "Skyscanner",
+      "title": "Chief AI Officer",
+      "sessions": [
+        {
+          "sessionId": "e26cc8f4-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Dulon",
+      "initials": "PD",
+      "company": "CREDIT AGRICOLE CIB",
+      "title": "Deputy General Manager in charge of IT & Operations Services Crédit Agricole CIB",
+      "sessions": [
+        {
+          "sessionId": "3319eac4-21b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:10 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Emerich",
+      "initials": "PE",
+      "company": "BIOSerenity",
+      "title": "Chief Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "277bbed0-55af-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "3:00 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Hoffer",
+      "initials": "PH",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "f7beb0ee-44c1-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:30 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Hoffman",
+      "initials": "PH",
+      "company": "Paris Bar Association",
+      "title": "Chairman",
+      "sessions": [
+        {
+          "sessionId": "fd97a7ba-faba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Houles",
+      "initials": "PH",
+      "company": "Renault Group",
+      "title": "Deputy CIO, Renault Group, Chief Technology Officer Mobilize and General Manager Renault Digital",
+      "sessions": [
+        {
+          "sessionId": "1087959e-82a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "6:20 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Jarrijon",
+      "initials": "PJ",
+      "company": "BPI FRANCE",
+      "title": "Head of AI Acceleration",
+      "sessions": [
+        {
+          "sessionId": "aa868624-19b9-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Kröning",
+      "initials": "PK",
+      "company": "Beiersdorf",
+      "title": "CIO & Managing Director Beiersdorf Shared Services IT",
+      "sessions": [
+        {
+          "sessionId": "8aaa7cbd-bca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Magrangeas",
+      "initials": "PM",
+      "company": "Letxbe",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "807c1a40-e7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Renvoisé",
+      "initials": "PR",
+      "company": "Dassault Aviation",
+      "title": "Defense Systems Architect",
+      "sessions": [
+        {
+          "sessionId": "cf8b3ee7-29c3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "5:10 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Pierre Torres",
+      "initials": "PT",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "89a9f5cf-6cac-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Pierre-Yves Le Morvan",
+      "initials": "PLM",
+      "company": "Nvidia",
+      "title": "France Manufacturing Lead",
+      "sessions": [
+        {
+          "sessionId": "a0c315b8-76a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:00 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Pooja Munshi",
+      "initials": "PM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "e89edf6a-84c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prashant Dhanraj",
+      "initials": "PD",
+      "company": "Celonis",
+      "title": "Principal AI Engineer",
+      "sessions": [
+        {
+          "sessionId": "1e6c2b50-54ab-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Pravina Ladva",
+      "initials": "PL",
+      "company": "SWISS RE",
+      "title": "Group Chief Digital & Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "427ccdb3-4ba4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Product Lead & Digital Transformation, Eye on Methane Data Platform – International Methane Emissions Observatory (IMEO)",
+      "initials": "UNEP",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "e89edf6a-84c0-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Antoine Tesnière",
+      "initials": "PAT",
+      "company": "PariSanté Campus",
+      "title": "Managing Director",
+      "sessions": [
+        {
+          "sessionId": "566727dc-b39e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Céline Hudelot",
+      "initials": "PCH",
+      "company": "CentraleSupélec",
+      "title": "Head of the MICS Laboratory",
+      "sessions": [
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Charlotte Bunne",
+      "initials": "PCB",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a2f96db5-d79e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. David Morquin",
+      "initials": "PDM",
+      "company": "Montpellier UHC",
+      "title": "Head of AI Strategy & Data Governance",
+      "sessions": [
+        {
+          "sessionId": "446b62a1-bf9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:45 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Dean Ho",
+      "initials": "PDH",
+      "company": "WisDM - National University of Singapore",
+      "title": "Head of the Department of Biomedical Engineering & Provost's Chair Professor & Director",
+      "sessions": [
+        {
+          "sessionId": "1f68cf57-da9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "4:00 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Fabrice Denis",
+      "initials": "PFD",
+      "company": "Institut Astrium",
+      "title": "Director, Professor, Oncologist, Preventive & Longevity Medicine",
+      "sessions": [
+        {
+          "sessionId": "16600321-df9e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "2:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Hiroki Habuka",
+      "initials": "PHH",
+      "company": "Kyoto University",
+      "title": "Research Professor",
+      "sessions": [
+        {
+          "sessionId": "bbd1c972-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:10 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Ian Abbs",
+      "initials": "PIA",
+      "company": "Guy's and St Thomas' NHS Foundation Trust",
+      "title": "Strategic Advisor, Former CEO",
+      "sessions": [
+        {
+          "sessionId": "b43cebab-c09e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "10:25 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Petra Ritter",
+      "initials": "PPR",
+      "company": "TEF-Health",
+      "title": "Coordinator",
+      "sessions": [
+        {
+          "sessionId": "bbd1c972-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:10 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Philippe Codron",
+      "initials": "PPC",
+      "company": "Angers UHC",
+      "title": "Professor & Neurologist",
+      "sessions": [
+        {
+          "sessionId": "7d0ef6db-c49e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Pierre-Antoine Gourraud",
+      "initials": "PPG",
+      "company": "Nantes UHC",
+      "title": "Professor & Healthcare Practitioner",
+      "sessions": [
+        {
+          "sessionId": "566727dc-b39e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Prof. Stéphanie Allassonnière",
+      "initials": "PSA",
+      "company": "University Paris Cité",
+      "title": "Vice President Valorisation & Chair of the Prairie Institute",
+      "sessions": [
+        {
+          "sessionId": "b43cebab-c09e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "10:25 AM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Qihua Wang",
+      "initials": "QW",
+      "company": "Lagardère Travel Retail",
+      "title": "Executive Vice President Strategy & AI",
+      "sessions": [
+        {
+          "sessionId": "8aaa7cbd-bca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Quentin Amaudry",
+      "initials": "QA",
+      "company": "Mendo",
+      "title": "CEO & Co-founder",
+      "sessions": [
+        {
+          "sessionId": "f35baa49-18a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:55 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Rakia Jaziri",
+      "initials": "RJ",
+      "company": "Wealthy Technology",
+      "title": "CEO & Co-founder",
+      "sessions": [
+        {
+          "sessionId": "b9b52a89-5aa8-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:30 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Raphael Frisch",
+      "initials": "RF",
+      "company": "Hawai tech",
+      "title": "CEO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "b171b0c9-7ea3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:30 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Reda Guiha",
+      "initials": "RG",
+      "company": "Pfizer",
+      "title": "Country President France",
+      "sessions": [
+        {
+          "sessionId": "d9a22c25-c19e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "11:15 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Régis Dioulo",
+      "initials": "RD",
+      "company": "Nvidia",
+      "title": "Healthcare Lead France",
+      "sessions": [
+        {
+          "sessionId": "65f3c579-18a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Rémi Maumon de Longevialle",
+      "initials": "RMDL",
+      "company": "VINCI Airports",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "081650bf-edb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Ricardo Tavares Dias",
+      "initials": "RTD",
+      "company": "DELL TECHNOLOGIES",
+      "title": "Director, Global Industries, FSI Vertical",
+      "sessions": [
+        {
+          "sessionId": "18f1f374-c7a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:20 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Rinesh Patel",
+      "initials": "RP",
+      "company": "SNOWFLAKE",
+      "title": "Global Head of Industry, Financial Services",
+      "sessions": [
+        {
+          "sessionId": "04fd5d45-24a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Roberto Moral",
+      "initials": "RM",
+      "company": "CISCO",
+      "title": "Cloud & AI Infrastructure - EMEA South Business Leader",
+      "sessions": [
+        {
+          "sessionId": "063eb1d1-98aa-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "1:00 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Rohan Patel",
+      "initials": "RP",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a9ad8bbe-eabf-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "11:40 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Romain Cauquil",
+      "initials": "RC",
+      "company": "AML Factory",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "759f83bd-dead-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:10 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Roxanne Varza",
+      "initials": "RV",
+      "company": "Station F",
+      "title": "Director",
+      "sessions": [
+        {
+          "sessionId": "8bed849f-5bba-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Sabine Parnigi-Azoulay",
+      "initials": "SP",
+      "company": "CNP ASSURANCES",
+      "title": "Innovation and Transformation Director",
+      "sessions": [
+        {
+          "sessionId": "3319eac4-21b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:10 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Saila Rinne",
+      "initials": "SR",
+      "company": "European Commission",
+      "title": "Head of Unit “Artificial Intelligence in Health & Life Sciences” at the EU AI Office",
+      "sessions": [
+        {
+          "sessionId": "bbd1c972-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:10 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Salim Echoukry",
+      "initials": "SE",
+      "company": "Klein Blue",
+      "title": "Co-Founder & CEO",
+      "sessions": [
+        {
+          "sessionId": "da08700e-93aa-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:55 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Samantha Simmonds",
+      "initials": "SS",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "994ef5cb-56b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "10:30 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "c0b3b361-7ec0-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "2:30 PM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "d5ead79c-94b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "2:45 PM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "56fccf0e-99b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "3:50 PM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "9d0f88d7-d6b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:15 PM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "db8cbf37-e1b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "3:45 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Sara Chokayri",
+      "initials": "SC",
+      "company": "AXA GROUP OPERATIONS",
+      "title": "AI Product Manager",
+      "sessions": [
+        {
+          "sessionId": "da4cceec-47b4-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "3:05 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Sarah-Fabienne Latsch",
+      "initials": "SL",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "84122de6-9fb5-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "10:35 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Sean Lee",
+      "initials": "SL",
+      "company": "Drimaes",
+      "title": "CCO/Co-founder",
+      "sessions": [
+        {
+          "sessionId": "3ad4a33f-67b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:45 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Sebastiaan Kalshoven",
+      "initials": "SK",
+      "company": "ASN BANK",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "80a17e9b-48a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:30 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Sébastien Arbola",
+      "initials": "SA",
+      "company": "Engie",
+      "title": "Executive Vice President, in charge of Data, Digital & IT, Strategy and Research & Innovation.",
+      "sessions": [
+        {
+          "sessionId": "9b7a0a05-b8bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "12:00 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Sébastien Marguerès",
+      "initials": "SM",
+      "company": "Artefact",
+      "title": "Director AI for Health & Public Affairs",
+      "sessions": [
+        {
+          "sessionId": "700c3a35-a99e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "9:40 AM",
+          "stage": "Mainstage North"
+        },
+        {
+          "sessionId": "5d956fa6-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "1:20 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Sébastien ROUSSET",
+      "initials": "SR",
+      "company": "Naval Group",
+      "title": "Chief Artificial Intelligence Officer",
+      "sessions": [
+        {
+          "sessionId": "2251db6d-7aa3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Séverin Duc",
+      "initials": "SD",
+      "company": "Founder of Back/Future",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "1087959e-82a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "6:20 PM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "379eae29-68c4-f011-8195-0022487f0371",
+          "date": "Nov 26, 2025",
+          "time": "2:20 PM",
+          "stage": "Mainstage East"
+        },
+        {
+          "sessionId": "b883f5e7-62a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Shana Owen",
+      "initials": "SO",
+      "company": "Vivanti",
+      "title": "Strategic Partnerships & Key Client Manager",
+      "sessions": [
+        {
+          "sessionId": "56baac95-27a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "2:10 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Siddhartha Chatterjee",
+      "initials": "SC",
+      "company": "Club Med",
+      "title": "Global Chief Data & AI Officer",
+      "sessions": [
+        {
+          "sessionId": "759c5c90-20be-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:00 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Siham Essodaigui",
+      "initials": "SE",
+      "company": "Renault Group",
+      "title": "Team Lead, Applied Artificial Intelligence",
+      "sessions": [
+        {
+          "sessionId": "ee8cc75a-7db9-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "11:15 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Simon Radier",
+      "initials": "SR",
+      "company": "Miranui",
+      "title": "Senior Manager - IoT",
+      "sessions": [
+        {
+          "sessionId": "0e2ea0ac-cead-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:10 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Simon Wieschemann",
+      "initials": "SW",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "215ed388-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Sofia Merlo",
+      "initials": "SM",
+      "company": "BNP Paribas",
+      "title": "Head of Human Resources",
+      "sessions": [
+        {
+          "sessionId": "97257003-ecbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:50 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Soham Saha",
+      "initials": "SS",
+      "company": "Medinsights",
+      "title": "President & CEO",
+      "sessions": [
+        {
+          "sessionId": "ca4aff51-5eb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:55 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Sophie Bellon",
+      "initials": "SB",
+      "company": "Sodexo",
+      "title": "Chairwoman of Sodexo’s Board of Directors",
+      "sessions": [
+        {
+          "sessionId": "9d0f88d7-d6b8-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:15 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Sophie Flak",
+      "initials": "SF",
+      "company": "EURAZEO",
+      "title": "Executive Board Member, CSR and Digital Managing Partner",
+      "sessions": [
+        {
+          "sessionId": "04fd5d45-24a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "11:05 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Sophie Ollivier",
+      "initials": "SO",
+      "company": "Servier",
+      "title": "Chief Data Officer R&D",
+      "sessions": [
+        {
+          "sessionId": "c69f411d-d89e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "10:10 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Sriram Raghavan",
+      "initials": "SR",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "d346e95c-81af-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:30 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Stan Zurkiewicz",
+      "initials": "SZ",
+      "company": "DEKRA",
+      "title": "CEO & Chairman of the Management Board DEKRA e.V. and DEKRA SE",
+      "sessions": [
+        {
+          "sessionId": "5f1b0143-83a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "6:00 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Stephan Cohen-Bacrie",
+      "initials": "SC",
+      "company": "Use & Share",
+      "title": "Expert in semantic interoperability",
+      "sessions": [
+        {
+          "sessionId": "78be3b29-b0aa-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Stéphane Coche",
+      "initials": "SC",
+      "company": "Aprex Solutions",
+      "title": "Sales Director and Partner",
+      "sessions": [
+        {
+          "sessionId": "f79efafe-63ae-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Stéphane Pallez",
+      "initials": "SP",
+      "company": "FDJ United",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "648a4756-3ab7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:15 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Stéphane Sinopoli",
+      "initials": "SS",
+      "company": "Groupement Les Mousquetaires",
+      "title": "Adhérent Intermarché et Président de la Direction de la Monétisation de la Data",
+      "sessions": [
+        {
+          "sessionId": "d171cd95-aca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Stéphane Tanguy",
+      "initials": "ST",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "b883f5e7-62a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "2:45 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Stéphanie Charlaix Meyer",
+      "initials": "SCM",
+      "company": "Air France-KLM",
+      "title": "Senior Vice President of Customer Service",
+      "sessions": [
+        {
+          "sessionId": "215ed388-c7ad-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:50 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Stéphanie Lacour",
+      "initials": "SL",
+      "company": "EPFL & ETH Zurich",
+      "title": "VP AI",
+      "sessions": [
+        {
+          "sessionId": "509e4abe-2fbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "5:19 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Steve Blanchet",
+      "initials": "SB",
+      "company": "PICTET GROUP",
+      "title": "Head of Group Technology Strategy and Innovation",
+      "sessions": [
+        {
+          "sessionId": "1bc34130-35b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "2:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Su Yang",
+      "initials": "SY",
+      "company": "BNP Paribas",
+      "title": "Head of Artificial Intelligence & IT Innovation",
+      "sessions": [
+        {
+          "sessionId": "2251db6d-7aa3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Susanna Cirulli",
+      "initials": "SC",
+      "company": "HIMSS",
+      "title": "Programme Manager EMEA",
+      "sessions": [
+        {
+          "sessionId": "7d0ef6db-c49e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Sylvain Roy",
+      "initials": "SR",
+      "company": "Amadeus",
+      "title": "Chief Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "83588b3b-ddb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "10:30 AM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Szabolcs Nagy",
+      "initials": "SN",
+      "company": "Turbine",
+      "title": "CEO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "a2f96db5-d79e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Tackeun KIM",
+      "initials": "TK",
+      "company": "Talos",
+      "title": "CEO & Neurosurgeon",
+      "sessions": [
+        {
+          "sessionId": "24afca1c-64b3-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "3:45 PM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Tanuja Randery",
+      "initials": "TR",
+      "company": "Amazon Web Services",
+      "title": "Managing Director and Vice President, Europe, Middle East, and Africa (EMEA)",
+      "sessions": [
+        {
+          "sessionId": "23996be9-35b7-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "11:15 AM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Theodore Bergqvist",
+      "initials": "TB",
+      "company": "Turbotic",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "cb7b4cf1-bca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:55 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Thibaud Guymard",
+      "initials": "TG",
+      "company": "Biogen",
+      "title": "Head of Innovation, Services & Digital",
+      "sessions": [
+        {
+          "sessionId": "7d0ef6db-c49e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:15 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Thibault Leclercq",
+      "initials": "TL",
+      "company": "Adobe",
+      "title": "Content Supply Chain & Work Management Sales Specialist",
+      "sessions": [
+        {
+          "sessionId": "dd831347-02b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:05 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Thierry Coulhon",
+      "initials": "TC",
+      "company": "Polytechnic Institute of Paris",
+      "title": "President",
+      "sessions": [
+        {
+          "sessionId": "52cc2cfe-32bb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "6:06 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Davin",
+      "initials": "TD",
+      "company": "UNICEF",
+      "title": "Global Innovation Director",
+      "sessions": [
+        {
+          "sessionId": "e541d8bb-adc1-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "1:00 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Filaire",
+      "initials": "TF",
+      "company": "Artefact",
+      "title": "Partner",
+      "sessions": [
+        {
+          "sessionId": "852adb97-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Fuchs",
+      "initials": "TF",
+      "company": "Eli Lilly",
+      "title": "Senior Vice President & Chief AI Officer",
+      "sessions": [
+        {
+          "sessionId": "a2f96db5-d79e-f011-b485-6045bd941168",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Larrieu",
+      "initials": "TL",
+      "company": "Upply",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "bc43316b-1db8-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:40 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Thomas Mackenbrock",
+      "initials": "TM",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "56fccf0e-99b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "3:50 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Timothé Cynober",
+      "initials": "TC",
+      "company": "WhiteLab Genomics",
+      "title": "Global Head of BD&L",
+      "sessions": [
+        {
+          "sessionId": "bb4ff22e-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:40 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Tiziana Tocci",
+      "initials": "TT",
+      "company": "Institut Curie",
+      "title": "PhD Candidate",
+      "sessions": [
+        {
+          "sessionId": "37f51ddb-dc9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "5:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Tobias Diebold",
+      "initials": "TD",
+      "company": "Dennemeyer Group",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "46d4b4ad-cca3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:30 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Tom Hallaran",
+      "initials": "TH",
+      "company": "Capitol AI",
+      "title": "Chief Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "a7cf76ed-4bb6-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "4:55 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Tuqa Alaithan",
+      "initials": "TA",
+      "company": "ARAMCO",
+      "title": "IT System Analyst",
+      "sessions": [
+        {
+          "sessionId": "b8dc8903-4bbf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:45 PM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Ulysse Gimenez",
+      "initials": "UG",
+      "company": "BIOSerenity",
+      "title": "Data Science Director",
+      "sessions": [
+        {
+          "sessionId": "37f51ddb-dc9e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "5:30 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Umberto Malesci",
+      "initials": "UM",
+      "company": "KOSMOY",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "1130f021-3bb3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "12:45 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Valérian Giesz",
+      "initials": "VG",
+      "company": "Quandela",
+      "title": "Cofounder & Chief Operating Officer",
+      "sessions": [
+        {
+          "sessionId": "f83102e1-2abb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "5:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Victoria Metzger",
+      "initials": "VM",
+      "company": "ARTEFACT",
+      "title": "Director Data Consulting",
+      "sessions": [
+        {
+          "sessionId": "3319eac4-21b8-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "11:10 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Viktorya Arakelyan",
+      "initials": "VA",
+      "company": "TechBiz Global",
+      "title": "Co Founder and Head of Sales",
+      "sessions": [
+        {
+          "sessionId": "c99c24b7-62a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:45 AM",
+          "stage": "Startup Stage"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Aurez",
+      "initials": "VA",
+      "company": "Figen AI",
+      "title": "Co-Founder & CEO",
+      "sessions": [
+        {
+          "sessionId": "427ccdb3-4ba4-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "12:20 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Ducrey",
+      "initials": "VD",
+      "company": "HUB Institute",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "d171cd95-aca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "5:00 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Lecerf",
+      "initials": "VL",
+      "company": "Orange Group",
+      "title": "Executive Vice President in charge of Human Resources",
+      "sessions": [
+        {
+          "sessionId": "97257003-ecbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "12:50 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Luciani",
+      "initials": "VL",
+      "company": "Artefact",
+      "title": "Co-founder & executive Chairman",
+      "sessions": [
+        {
+          "sessionId": "794626de-77b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "9:15 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "aa5b6687-86b6-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "2:15 PM",
+          "stage": "CEO Stage"
+        }
+      ]
+    },
+    {
+      "name": "Vincent Puard",
+      "initials": "VP",
+      "company": "MAbSilico",
+      "title": "CEO & Co-Founder",
+      "sessions": [
+        {
+          "sessionId": "bb4ff22e-1ca5-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:40 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Virginie Brard",
+      "initials": "VB",
+      "company": "Fivetran",
+      "title": "Regional Vice President France & Benelux",
+      "sessions": [
+        {
+          "sessionId": "8aaa7cbd-bca9-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Virginie Dominguez",
+      "initials": "VD",
+      "company": "Servier",
+      "title": "Executive Vice President, Information Systems, Digital, Data & AI",
+      "sessions": [
+        {
+          "sessionId": "46424155-84af-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "11:40 AM",
+          "stage": "CEO Stage"
+        },
+        {
+          "sessionId": "802ef506-c69e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "12:55 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Virginie Schwarz",
+      "initials": "VS",
+      "company": "Météo France",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "9aabf1f8-4ab3-f011-8e61-6045bd9dd769",
+          "date": "Nov 26, 2025",
+          "time": "3:40 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Walid Mehanna",
+      "initials": "WM",
+      "company": "Merck Group",
+      "title": "Chief Data & AI Officer",
+      "sessions": [
+        {
+          "sessionId": "01854a11-b49e-f011-b485-6045bd941168",
+          "date": "Nov 25, 2025",
+          "time": "10:40 AM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Wassila Zitoune Dumonet",
+      "initials": "WZD",
+      "company": "ORANGE BUSINESS",
+      "title": "CEO Orange Business France",
+      "sessions": [
+        {
+          "sessionId": "97eed054-cdbf-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "3:05 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Wassim Chourbaji",
+      "initials": "WC",
+      "company": "Qualcomm",
+      "title": "President MEA and SVP Government Affairs EMEA",
+      "sessions": [
+        {
+          "sessionId": "5e40ddfa-a9b4-f011-8e61-6045bd9dd769",
+          "date": "Nov 25, 2025",
+          "time": "4:50 PM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "William Rang",
+      "initials": "WR",
+      "company": "Alteryx",
+      "title": "Director of Channel Sales",
+      "sessions": [
+        {
+          "sessionId": "4f76b0fb-9bc3-f011-8195-0022487f0371",
+          "date": "Nov 25, 2025",
+          "time": "10:10 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Wojciech Janusz",
+      "initials": "WJ",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "a0c315b8-76a4-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:00 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Yann Algan",
+      "initials": "YA",
+      "company": "HEC / Hi! Paris",
+      "title": "Associate Dean of Pre-experience Programs and Professor of Economics",
+      "sessions": [
+        {
+          "sessionId": "c5faa8b8-1dbb-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "4:49 PM",
+          "stage": "Mainstage North"
+        }
+      ]
+    },
+    {
+      "name": "Yann Le Rhun",
+      "initials": "YLR",
+      "company": "Lenovo",
+      "title": "France Chief Technology Officer",
+      "sessions": [
+        {
+          "sessionId": "59b23b17-34be-f011-8194-6045bd90aa7b",
+          "date": "Nov 26, 2025",
+          "time": "10:45 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Yann Lechelle",
+      "initials": "YL",
+      "company": "Probabl",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "2251db6d-7aa3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "4:05 PM",
+          "stage": "Mainstage East"
+        }
+      ]
+    },
+    {
+      "name": "Yannick Devaux",
+      "initials": "YD",
+      "company": "Amadeus IT Group",
+      "title": "Innovation Director",
+      "sessions": [
+        {
+          "sessionId": "af9d6a58-09b0-f011-8e60-6045bd8d9978",
+          "date": "Nov 26, 2025",
+          "time": "10:20 AM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Yazan Alahmadi",
+      "initials": "YA",
+      "company": "Aramco",
+      "title": "IT Systems Analyst",
+      "sessions": [
+        {
+          "sessionId": "a2961274-ebbe-f011-8194-6045bd90aa7b",
+          "date": "Nov 25, 2025",
+          "time": "10:15 AM",
+          "stage": "Masterclass South"
+        }
+      ]
+    },
+    {
+      "name": "Yves Dupuy",
+      "initials": "YD",
+      "company": "",
+      "title": "",
+      "sessions": [
+        {
+          "sessionId": "61b07c85-c9a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "10:45 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    },
+    {
+      "name": "Yves Mahieu",
+      "initials": "YM",
+      "company": "Pure Storage",
+      "title": "International Industry Principal, Healthcare & Life Sciences",
+      "sessions": [
+        {
+          "sessionId": "65f3c579-18a5-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "3:35 PM",
+          "stage": "Masterclass North"
+        }
+      ]
+    },
+    {
+      "name": "Yves Tyrode",
+      "initials": "YT",
+      "company": "BPCE GROUPE",
+      "title": "CEO of Digital & Payments, Member of the Executive Management Committee",
+      "sessions": [
+        {
+          "sessionId": "992f1bda-c4a3-f011-8e60-6045bd8d9978",
+          "date": "Nov 25, 2025",
+          "time": "9:50 AM",
+          "stage": "Mainstage South"
+        }
+      ]
+    }
+  ]
+}
