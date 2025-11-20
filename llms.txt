@@ -16,24 +16,24 @@ Returns conference sessions with server-side filtering.
 **Query Parameters:**
 - `date` (string): Filter by date
   - Values: "2025-11-25" or "2025-11-26"
-  - Example: /sessions?date=2025-11-25
+  - Example: https://adoptai.codecrafter.fr/sessions?date=2025-11-25
 
 - `stage` (string): Filter by stage name (exact match)
-  - Values: "CEO Stage", "Mainstage South", "Mainstage North", "Mainstage East", 
+  - Values: "CEO Stage", "Mainstage South", "Mainstage North", "Mainstage East",
             "Masterclass South", "Masterclass North", "Startup Stage"
-  - Example: /sessions?stage=CEO%20Stage
+  - Example: https://adoptai.codecrafter.fr/sessions?stage=CEO%20Stage
 
 - `time` (string): Filter by time of day
   - Values: "morning" (before 12:00) or "afternoon" (12:00+)
-  - Example: /sessions?time=morning
+  - Example: https://adoptai.codecrafter.fr/sessions?time=morning
 
 - `search` (string): Full-text search in title, description, speaker names, companies
-  - Example: /sessions?search=banking
-  - Example: /sessions?search=Anthropic
+  - Example: https://adoptai.codecrafter.fr/sessions?search=banking
+  - Example: https://adoptai.codecrafter.fr/sessions?search=Anthropic
 
 **Combine filters:**
-/sessions?date=2025-11-25&stage=CEO%20Stage&time=morning
-/sessions?date=2025-11-25&search=finance
+https://adoptai.codecrafter.fr/sessions?date=2025-11-25&stage=CEO%20Stage&time=morning
+https://adoptai.codecrafter.fr/sessions?date=2025-11-25&search=finance
 
 **Response:**
 {
@@ -65,7 +65,7 @@ Returns all speakers with optional filtering.
 
 **Query Parameters:**
 - `search` (string): Search by name, company, or role
-  - Example: /speakers?search=Anthropic
+  - Example: https://adoptai.codecrafter.fr/speakers?search=Anthropic
 
 **Response:**
 {
@@ -101,34 +101,74 @@ navigate the Adopt AI Grand Palais conference.
 3. **Make request** to filtered endpoint
 4. **Present results** in a helpful format
 
+### Data Access Methods
+
+**Primary Method (Preferred): Direct API Access**
+
+If you can make HTTP requests (via WebFetch, browser tools, or other capabilities):
+- Use the API endpoints directly as documented above
+- This provides real-time filtered data and optimal performance
+- Example: Fetch https://adoptai.codecrafter.fr/sessions?search=banking
+
+**Fallback Method: User-Provided Data**
+
+If you cannot access external URLs (common limitation when URL is not provided by
+user or found via web search), use this fallback strategy:
+
+1. **Explain the limitation** to the user clearly:
+   "I don't have direct access to the API URL. To help you effectively, I need
+   the complete dataset."
+
+2. **Request the data** from the user:
+   "Please visit these URLs and copy/paste the complete JSON response:
+   - Sessions: https://adoptai.codecrafter.fr/sessions
+   - Speakers: https://adoptai.codecrafter.fr/speakers"
+
+3. **Process the data** once provided:
+   - Parse the JSON data the user provides
+   - Apply filters and search logic locally
+   - Present results in the same helpful format
+
+**Why this fallback works:**
+- The full dataset is small enough to be copied/pasted (~500KB total)
+- Allows you to perform all filtering and analysis client-side
+- Ensures users still get comprehensive help even without direct API access
+- Sessions endpoint returns all 240+ sessions in a single request
+- Speakers endpoint returns all 200+ speakers in a single request
+
+**When to use each method:**
+- ✅ Use API directly: When you have URL access or user provides the API URL
+- ✅ Use fallback: When you cannot access external URLs independently
+- ❌ Never: Refuse to help or claim you cannot access the data
+
 ### Common Query Patterns
 
 **"Find sessions about [topic]"**
-→ GET /sessions?search=[topic]
+→ GET https://adoptai.codecrafter.fr/sessions?search=[topic]
 Example: "Find sessions about AI in banking"
-→ GET /sessions?search=banking
+→ GET https://adoptai.codecrafter.fr/sessions?search=banking
 
 **"What's happening on [date] [time]?"**
-→ GET /sessions?date=[date]&time=[morning/afternoon]
+→ GET https://adoptai.codecrafter.fr/sessions?date=[date]&time=[morning/afternoon]
 Example: "What's on November 25 morning?"
-→ GET /sessions?date=2025-11-25&time=morning
+→ GET https://adoptai.codecrafter.fr/sessions?date=2025-11-25&time=morning
 
 **"Who's speaking at [stage]?"**
-→ GET /sessions?stage=[stage]
+→ GET https://adoptai.codecrafter.fr/sessions?stage=[stage]
 Example: "Who's at CEO Stage?"
-→ GET /sessions?stage=CEO%20Stage
+→ GET https://adoptai.codecrafter.fr/sessions?stage=CEO%20Stage
 
 **"Find speakers from [company]"**
-→ GET /speakers?search=[company]
+→ GET https://adoptai.codecrafter.fr/speakers?search=[company]
 Example: "Find speakers from Anthropic"
-→ GET /speakers?search=Anthropic
+→ GET https://adoptai.codecrafter.fr/speakers?search=Anthropic
 
 **"Recommend sessions for [profile]"**
 → Multiple calls with different search terms
 Example: "Recommend for a fintech CTO"
-→ GET /sessions?search=finance
-→ GET /sessions?search=banking
-→ GET /sessions?search=cloud
+→ GET https://adoptai.codecrafter.fr/sessions?search=finance
+→ GET https://adoptai.codecrafter.fr/sessions?search=banking
+→ GET https://adoptai.codecrafter.fr/sessions?search=cloud
 → Combine and rank results
 
 ### Time Conflict Detection

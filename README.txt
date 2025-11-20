@@ -20,11 +20,17 @@ This API provides **clean, structured, filterable endpoints** so AI assistants l
 
 Just tell Claude/ChatGPT:
 ```
-"Fetch https://adoptai.codecrafter.fr and help me find sessions 
+"Fetch https://adoptai.codecrafter.fr and help me find sessions
 about AI in banking on November 25"
 ```
 
-The API is designed to be self-documenting. AI assistants can read the `/llm.txt` endpoint for full instructions.
+The API is designed to be self-documenting. AI assistants can read the `/llms.txt` endpoint for full instructions.
+
+**Fallback Strategy**: If an AI assistant cannot access the API directly (common limitation when URLs aren't user-provided), it can ask you to copy/paste the complete JSON from:
+- https://adoptai.codecrafter.fr/sessions (all 240+ sessions)
+- https://adoptai.codecrafter.fr/speakers (all 200+ speakers)
+
+The assistant will then process the data locally to answer your questions. The full dataset is small enough (~500KB) to be easily shared this way.
 
 ### For Developers
 ```bash
@@ -40,6 +46,39 @@ curl "https://adoptai.codecrafter.fr/sessions?search=banking"
 # Get speakers
 curl https://adoptai.codecrafter.fr/speakers
 ```
+
+## 🤖 AI Assistant Usage Patterns
+
+This API supports two data access methods for AI assistants:
+
+### Method 1: Direct API Access (Preferred)
+
+When an AI assistant can make HTTP requests (URL provided by user or found via web search):
+```
+User: "Find AI banking sessions at Adopt AI"
+AI: *Fetches https://adoptai.codecrafter.fr/sessions?search=banking*
+AI: "I found 5 sessions about AI in banking..."
+```
+
+### Method 2: User-Provided Data (Fallback)
+
+When an AI assistant cannot access external URLs independently:
+```
+User: "Find AI banking sessions at Adopt AI"
+AI: "I don't have direct access to the API. Please copy/paste the JSON from:
+     https://adoptai.codecrafter.fr/sessions"
+User: *Copies and pastes JSON data*
+AI: *Processes data locally and filters for "banking"*
+AI: "I found 5 sessions about AI in banking..."
+```
+
+**Why this dual approach works:**
+- ✅ **Small dataset**: Full data is only ~500KB (240 sessions + 200 speakers)
+- ✅ **Single request**: No pagination needed - entire dataset in one call
+- ✅ **Client-side processing**: AI can filter, search, and analyze locally
+- ✅ **Always helpful**: Users get assistance regardless of API access limitations
+
+This design ensures **maximum accessibility** for all AI assistants, even those with URL access restrictions.
 
 ## 📚 API Documentation
 
