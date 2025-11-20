@@ -37,11 +37,25 @@ def load_json_from_s3(key: str) -> dict:
 
 
 def get_sessions() -> list[dict]:
-    """Get sessions data with caching"""
+    """Get sessions data with caching and pre-parsed datetimes"""
     global _sessions_cache
     if _sessions_cache is None:
         data = load_json_from_s3(f"{DATA_PREFIX}/sessions.json")
-        _sessions_cache = data.get("sessions", [])
+        sessions = data.get("sessions", [])
+
+        # Pre-parse all session datetimes for better performance with SnapStart
+        # This happens once per Lambda instance and is cached across invocations
+        for session in sessions:
+            session["_start_dt"] = parse_session_datetime(
+                session.get("date", ""),
+                session.get("startTime", "")
+            )
+            session["_end_dt"] = parse_session_datetime(
+                session.get("date", ""),
+                session.get("endTime", "")
+            )
+
+        _sessions_cache = sessions
     return _sessions_cache
 
 
@@ -118,7 +132,11 @@ def get_paris_now() -> datetime:
 
 
 def filter_sessions_by_now(sessions: list[dict]) -> dict:
-    """Filter sessions happening now or starting soon (within 30 minutes)"""
+    """Filter sessions happening now or starting soon (within 30 minutes)
+
+    Uses pre-parsed datetimes (_start_dt, _end_dt) cached in session objects.
+    This optimization leverages SnapStart caching for better performance.
+    """
     now = get_paris_now()
     in_30_min = now + timedelta(minutes=30)
 
@@ -126,8 +144,9 @@ def filter_sessions_by_now(sessions: list[dict]) -> dict:
     upcoming = []
 
     for session in sessions:
-        start_dt = parse_session_datetime(session.get("date", ""), session.get("startTime", ""))
-        end_dt = parse_session_datetime(session.get("date", ""), session.get("endTime", ""))
+        # Use pre-parsed datetimes from cache (set in get_sessions())
+        start_dt = session.get("_start_dt")
+        end_dt = session.get("_end_dt")
 
         if not start_dt:
             continue
