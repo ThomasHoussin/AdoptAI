@@ -31,7 +31,7 @@ export class AdoptaiStack extends cdk.Stack {
       enforceSSL: true,
     });
 
-    new s3deploy.BucketDeployment(this, 'AdoptaiDataDeployment', {
+    const dataDeployment = new s3deploy.BucketDeployment(this, 'AdoptaiDataDeployment', {
       sources: [s3deploy.Source.asset(path.join(__dirname, '../../data'))],
       destinationBucket: dataBucket,
       destinationKeyPrefix: 'data',
@@ -62,6 +62,9 @@ export class AdoptaiStack extends cdk.Stack {
     });
 
     dataBucket.grantRead(apiFunction);
+
+    // Ensure data is deployed before Lambda version is published (for SnapStart)
+    apiFunction.node.addDependency(dataDeployment);
 
     const version = apiFunction.currentVersion;
     const alias = new lambda.Alias(this, 'AdoptaiApiAlias', { aliasName: 'live', version });

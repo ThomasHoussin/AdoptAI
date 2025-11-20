@@ -59,8 +59,10 @@ def get_llms_txt() -> str:
         try:
             response = s3_client.get_object(Bucket=BUCKET_NAME, Key=f"{DATA_PREFIX}/llms.txt")
             _llms_txt_cache = response["Body"].read().decode("utf-8")
-        except Exception:
-            _llms_txt_cache = "# AdoptAI API\n\nVisit /sessions or /speakers for data."
+        except Exception as e:
+            # Don't cache fallback - allow retry on next invocation
+            print(f"Error loading llms.txt: {e}")
+            return "# AdoptAI API\n\nVisit /sessions or /speakers for data."
     return _llms_txt_cache
 
 
@@ -190,6 +192,10 @@ def handler(event: dict, context: Any) -> dict:
     if path in ["/", "/llms.txt"]:
         return create_response(200, get_llms_txt(), "text/plain")
 
+    elif path == "/robots.txt":
+        robots_txt = "User-agent: *\nAllow: /\n"
+        return create_response(200, robots_txt, "text/plain")
+
     elif path == "/health":
         return create_response(200, {"status": "healthy", "service": "adoptai-api"})
 
@@ -234,5 +240,5 @@ def handler(event: dict, context: Any) -> dict:
         return create_response(404, {
             "error": "Not Found",
             "message": f"Path {path} not found",
-            "available_endpoints": ["/", "/llms.txt", "/sessions", "/speakers", "/health"],
+            "available_endpoints": ["/", "/llms.txt", "/robots.txt", "/sessions", "/speakers", "/health"],
         })
