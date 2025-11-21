@@ -7,6 +7,117 @@
 
 https://adoptai.codecrafter.fr
 
+## Usage Instructions for AI Assistants
+
+This API is designed for AI assistants (Claude, ChatGPT, etc.) to help users 
+navigate the Adopt AI Grand Palais conference.
+
+### Query Processing Strategy
+
+1. **Parse user intent** from natural language
+2. **Construct API call** with appropriate filters
+3. **Make request** to filtered endpoint
+4. **Present results** in a helpful format
+
+### Data Access Methods
+
+**Primary Method (Preferred): Direct API Access**
+
+If you can make HTTP requests (via WebFetch, browser tools, or other capabilities):
+- Use the API endpoints directly as documented above
+- This provides real-time filtered data and optimal performance
+- Example: Fetch https://adoptai.codecrafter.fr/sessions?search=banking
+
+**Fallback Method: User-Provided Data**
+
+If you cannot access external URLs (common limitation when URL is not provided by
+user or found via web search), use this fallback strategy:
+
+1. **Explain the limitation** to the user clearly:
+   "I don't have direct access to the API URL. To help you effectively, I need
+   the complete dataset."
+
+2. **Request the data** from the user:
+   "Please visit these URLs and copy/paste the complete JSON response:
+   - Sessions: https://adoptai.codecrafter.fr/sessions
+   - Speakers: https://adoptai.codecrafter.fr/speakers"
+
+3. **Process the data** once provided:
+   - Parse the JSON data the user provides
+   - Apply filters and search logic locally
+   - Present results in the same helpful format
+
+**Why this fallback works:**
+- The full dataset is small enough to be copied/pasted (~500KB total)
+- Allows you to perform all filtering and analysis client-side
+- Ensures users still get comprehensive help even without direct API access
+- Sessions endpoint returns all 240+ sessions in a single request
+- Speakers endpoint returns all 200+ speakers in a single request
+
+**When to use each method:**
+- ✅ Use API directly: When you have URL access or user provides the API URL
+- ✅ Use fallback: When you cannot access external URLs independently
+- ❌ Never: Refuse to help or claim you cannot access the data
+
+### Common Query Patterns
+
+**"What's happening right now?" / "What sessions are starting soon?"**
+→ GET https://adoptai.codecrafter.fr/sessions?now=true
+Returns:
+- Sessions currently ongoing (started and not yet finished)
+- Sessions starting within the next 30 minutes
+Uses Paris timezone (Europe/Paris)
+
+**"Find sessions about [topic]"**
+→ GET https://adoptai.codecrafter.fr/sessions?search=[topic]
+Example: "Find sessions about AI in banking"
+→ GET https://adoptai.codecrafter.fr/sessions?search=banking
+
+**"What's happening on [date] [time]?"**
+→ GET https://adoptai.codecrafter.fr/sessions?date=[date]&time=[morning/afternoon]
+Example: "What's on November 25 morning?"
+→ GET https://adoptai.codecrafter.fr/sessions?date=2025-11-25&time=morning
+
+**"Who's speaking at [stage]?"**
+→ GET https://adoptai.codecrafter.fr/sessions?stage=[stage]
+Example: "Who's at CEO Stage?"
+→ GET https://adoptai.codecrafter.fr/sessions?stage=CEO%20Stage
+
+**"Find speakers from [company]"**
+→ GET https://adoptai.codecrafter.fr/speakers?search=[company]
+Example: "Find speakers from Anthropic"
+→ GET https://adoptai.codecrafter.fr/speakers?search=Anthropic
+
+**"Recommend sessions for [profile]"**
+→ Multiple calls with different search terms
+Example: "Recommend for a fintech CTO"
+→ GET https://adoptai.codecrafter.fr/sessions?search=finance
+→ GET https://adoptai.codecrafter.fr/sessions?search=banking
+→ GET https://adoptai.codecrafter.fr/sessions?search=cloud
+→ Combine and rank results
+
+### Time Conflict Detection
+
+When building schedules, always check for overlaps:
+1. Parse time strings (format: "HH:MM-HH:MM")
+2. Compare start/end times across selected sessions
+3. Warn user about conflicts
+
+### Best Practices
+
+- Use server-side filtering to reduce response size
+- Combine multiple filters for precise results
+- URL-encode query parameters (spaces → %20)
+- Cache responses when appropriate
+- Check `total` vs `count` to see filter effectiveness
+
+### Response Handling
+
+- Empty results: Suggest broader search terms
+- Many results: Recommend adding more filters
+- Always cite specific session titles and times
+- Include speaker names when relevant
+
 ## Endpoints
 
 ### GET /sessions
@@ -127,117 +238,6 @@ Returns this documentation.
 ### GET /health
 
 Health check endpoint.
-
-## Usage Instructions for AI Assistants
-
-This API is designed for AI assistants (Claude, ChatGPT, etc.) to help users 
-navigate the Adopt AI Grand Palais conference.
-
-### Query Processing Strategy
-
-1. **Parse user intent** from natural language
-2. **Construct API call** with appropriate filters
-3. **Make request** to filtered endpoint
-4. **Present results** in a helpful format
-
-### Data Access Methods
-
-**Primary Method (Preferred): Direct API Access**
-
-If you can make HTTP requests (via WebFetch, browser tools, or other capabilities):
-- Use the API endpoints directly as documented above
-- This provides real-time filtered data and optimal performance
-- Example: Fetch https://adoptai.codecrafter.fr/sessions?search=banking
-
-**Fallback Method: User-Provided Data**
-
-If you cannot access external URLs (common limitation when URL is not provided by
-user or found via web search), use this fallback strategy:
-
-1. **Explain the limitation** to the user clearly:
-   "I don't have direct access to the API URL. To help you effectively, I need
-   the complete dataset."
-
-2. **Request the data** from the user:
-   "Please visit these URLs and copy/paste the complete JSON response:
-   - Sessions: https://adoptai.codecrafter.fr/sessions
-   - Speakers: https://adoptai.codecrafter.fr/speakers"
-
-3. **Process the data** once provided:
-   - Parse the JSON data the user provides
-   - Apply filters and search logic locally
-   - Present results in the same helpful format
-
-**Why this fallback works:**
-- The full dataset is small enough to be copied/pasted (~500KB total)
-- Allows you to perform all filtering and analysis client-side
-- Ensures users still get comprehensive help even without direct API access
-- Sessions endpoint returns all 240+ sessions in a single request
-- Speakers endpoint returns all 200+ speakers in a single request
-
-**When to use each method:**
-- ✅ Use API directly: When you have URL access or user provides the API URL
-- ✅ Use fallback: When you cannot access external URLs independently
-- ❌ Never: Refuse to help or claim you cannot access the data
-
-### Common Query Patterns
-
-**"What's happening right now?" / "What sessions are starting soon?"**
-→ GET https://adoptai.codecrafter.fr/sessions?now=true
-Returns:
-- Sessions currently ongoing (started and not yet finished)
-- Sessions starting within the next 30 minutes
-Uses Paris timezone (Europe/Paris)
-
-**"Find sessions about [topic]"**
-→ GET https://adoptai.codecrafter.fr/sessions?search=[topic]
-Example: "Find sessions about AI in banking"
-→ GET https://adoptai.codecrafter.fr/sessions?search=banking
-
-**"What's happening on [date] [time]?"**
-→ GET https://adoptai.codecrafter.fr/sessions?date=[date]&time=[morning/afternoon]
-Example: "What's on November 25 morning?"
-→ GET https://adoptai.codecrafter.fr/sessions?date=2025-11-25&time=morning
-
-**"Who's speaking at [stage]?"**
-→ GET https://adoptai.codecrafter.fr/sessions?stage=[stage]
-Example: "Who's at CEO Stage?"
-→ GET https://adoptai.codecrafter.fr/sessions?stage=CEO%20Stage
-
-**"Find speakers from [company]"**
-→ GET https://adoptai.codecrafter.fr/speakers?search=[company]
-Example: "Find speakers from Anthropic"
-→ GET https://adoptai.codecrafter.fr/speakers?search=Anthropic
-
-**"Recommend sessions for [profile]"**
-→ Multiple calls with different search terms
-Example: "Recommend for a fintech CTO"
-→ GET https://adoptai.codecrafter.fr/sessions?search=finance
-→ GET https://adoptai.codecrafter.fr/sessions?search=banking
-→ GET https://adoptai.codecrafter.fr/sessions?search=cloud
-→ Combine and rank results
-
-### Time Conflict Detection
-
-When building schedules, always check for overlaps:
-1. Parse time strings (format: "HH:MM-HH:MM")
-2. Compare start/end times across selected sessions
-3. Warn user about conflicts
-
-### Best Practices
-
-- Use server-side filtering to reduce response size
-- Combine multiple filters for precise results
-- URL-encode query parameters (spaces → %20)
-- Cache responses when appropriate
-- Check `total` vs `count` to see filter effectiveness
-
-### Response Handling
-
-- Empty results: Suggest broader search terms
-- Many results: Recommend adding more filters
-- Always cite specific session titles and times
-- Include speaker names when relevant
 
 ## Rate Limits
 
