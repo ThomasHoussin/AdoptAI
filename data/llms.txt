@@ -164,8 +164,8 @@ https://adoptai.codecrafter.fr/sessions?date=2025-11-25&search=finance
       "id": "...",
       "title": "...",
       "description": "...",
-      "date": "2025-11-25",
-      "time": "09:30-10:00",
+      "date": "Nov 25, 2025",
+      "time": "9:30 AM - 10:00 AM",
       "stage": "CEO Stage",
       "speakers": [
         {
