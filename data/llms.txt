@@ -37,8 +37,8 @@ user or found via web search), use this fallback strategy:
    "I don't have direct access to the API URL. To help you effectively, I need
    the complete dataset."
 
-2. **Request the data** from the user:
-   "Please visit these URLs and copy/paste the complete JSON response:
+2. **Request the URLs or the data** from the user:
+   "Please copy these URLs in the chat window, or visit these URLs and copy/paste the complete JSON response:
    - Sessions: https://adoptai.codecrafter.fr/sessions
    - Speakers: https://adoptai.codecrafter.fr/speakers"
 
@@ -48,6 +48,7 @@ user or found via web search), use this fallback strategy:
    - Present results in the same helpful format
 
 **Why this fallback works:**
+- You can access the URLs if given by the user
 - The full dataset is small enough to be copied/pasted (~500KB total)
 - Allows you to perform all filtering and analysis client-side
 - Ensures users still get comprehensive help even without direct API access
