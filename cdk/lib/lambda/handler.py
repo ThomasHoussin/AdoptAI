@@ -9,6 +9,8 @@ import boto3
 from typing import Any
 from urllib.parse import parse_qs
 from botocore.exceptions import ClientError
+from datetime import datetime, timedelta
+from zoneinfo import ZoneInfo
 
 # Global cache for data
 _sessions_cache: list[dict] | None = None
@@ -35,11 +37,25 @@ def load_json_from_s3(key: str) -> dict:
 
 
 def get_sessions() -> list[dict]:
-    """Get sessions data with caching"""
+    """Get sessions data with caching and pre-parsed datetimes"""
     global _sessions_cache
     if _sessions_cache is None:
         data = load_json_from_s3(f"{DATA_PREFIX}/sessions.json")
-        _sessions_cache = data.get("sessions", [])
+        sessions = data.get("sessions", [])
+
+        # Pre-parse all session datetimes for better performance with SnapStart
+        # This happens once per Lambda instance and is cached across invocations
+        for session in sessions:
+            session["_start_dt"] = parse_session_datetime(
+                session.get("date", ""),
+                session.get("startTime", "")
+            )
+            session["_end_dt"] = parse_session_datetime(
+                session.get("date", ""),
+                session.get("endTime", "")
+            )
+
+        _sessions_cache = sessions
     return _sessions_cache
 
 
@@ -82,6 +98,75 @@ def parse_time(time_str: str) -> int:
     except Exception:
         pass
     return 0
+
+
+def parse_session_datetime(date_str: str, time_str: str) -> datetime | None:
+    """Parse session date and time to datetime in Paris timezone"""
+    try:
+        # Parse date: "Nov 25, 2025" -> datetime
+        date_str = date_str.strip()
+        time_str = time_str.strip().upper()
+
+        # Parse time
+        parts = time_str.replace("AM", "").replace("PM", "").strip().split(":")
+        hours = int(parts[0])
+        minutes = int(parts[1]) if len(parts) > 1 else 0
+
+        if "PM" in time_str and hours != 12:
+            hours += 12
+        elif "AM" in time_str and hours == 12:
+            hours = 0
+
+        # Parse date and combine with time
+        dt = datetime.strptime(date_str, "%b %d, %Y")
+        dt = dt.replace(hour=hours, minute=minutes, second=0, microsecond=0, tzinfo=ZoneInfo("Europe/Paris"))
+
+        return dt
+    except Exception:
+        return None
+
+
+def get_paris_now() -> datetime:
+    """Get current time in Paris timezone"""
+    return datetime.now(ZoneInfo("Europe/Paris"))
+
+
+def filter_sessions_by_now(sessions: list[dict]) -> dict:
+    """Filter sessions happening now or starting soon (within 30 minutes)
+
+    Uses pre-parsed datetimes (_start_dt, _end_dt) cached in session objects.
+    This optimization leverages SnapStart caching for better performance.
+    """
+    now = get_paris_now()
+    in_30_min = now + timedelta(minutes=30)
+
+    ongoing = []
+    upcoming = []
+
+    for session in sessions:
+        # Use pre-parsed datetimes from cache (set in get_sessions())
+        start_dt = session.get("_start_dt")
+        end_dt = session.get("_end_dt")
+
+        if not start_dt:
+            continue
+
+        # If no valid end time, assume session is still ongoing if it started recently
+        if not end_dt or end_dt <= start_dt:
+            # Fallback: assume session lasts 20 minutes (median gap from analysis)
+            end_dt = start_dt + timedelta(minutes=20)
+
+        # Check if session is ongoing
+        if start_dt <= now <= end_dt:
+            ongoing.append(session)
+        # Check if session starts within 30 minutes
+        elif start_dt > now and start_dt <= in_30_min:
+            upcoming.append(session)
+
+    return {
+        "ongoing": ongoing,
+        "upcoming": upcoming,
+    }
 
 
 def filter_sessions(sessions: list[dict], params: dict) -> list[dict]:
@@ -201,31 +286,69 @@ def handler(event: dict, context: Any) -> dict:
 
     elif path == "/sessions":
         sessions = get_sessions()
-        filtered = filter_sessions(sessions, params)
 
-        formatted_sessions = []
-        for session in filtered:
-            start = session.get("startTime", "")
-            end = session.get("endTime", "")
-            time_str = f"{start} - {end}".strip(" -") if start or end else ""
+        # Check if 'now' parameter is present
+        now_param = params.get("now", [None])[0]
 
-            formatted_session = {
-                "id": session.get("id", ""),
-                "title": session.get("title", ""),
-                "date": session.get("date", ""),
-                "time": time_str,
-                "stage": session.get("stage", ""),
-                "speakers": session.get("speakers", []),
-                "ecosystems": session.get("ecosystems", []),
-            }
-            formatted_sessions.append(formatted_session)
+        if now_param and now_param.lower() in ["true", "1", "yes"]:
+            # Filter sessions happening now or starting soon
+            now_filtered = filter_sessions_by_now(sessions)
 
-        return create_response(200, {
-            "total": len(sessions),
-            "count": len(formatted_sessions),
-            "filters": {k: v[0] for k, v in params.items() if v},
-            "sessions": formatted_sessions,
-        })
+            def format_session(session):
+                start = session.get("startTime", "")
+                end = session.get("endTime", "")
+                time_str = f"{start} - {end}".strip(" -") if start or end else ""
+                return {
+                    "id": session.get("id", ""),
+                    "title": session.get("title", ""),
+                    "date": session.get("date", ""),
+                    "time": time_str,
+                    "stage": session.get("stage", ""),
+                    "speakers": session.get("speakers", []),
+                    "ecosystems": session.get("ecosystems", []),
+                }
+
+            paris_now = get_paris_now()
+
+            return create_response(200, {
+                "currentTime": paris_now.strftime("%Y-%m-%d %H:%M:%S %Z"),
+                "ongoing": {
+                    "count": len(now_filtered["ongoing"]),
+                    "sessions": [format_session(s) for s in now_filtered["ongoing"]],
+                },
+                "upcoming": {
+                    "count": len(now_filtered["upcoming"]),
+                    "description": "Sessions starting within 30 minutes",
+                    "sessions": [format_session(s) for s in now_filtered["upcoming"]],
+                },
+            })
+        else:
+            # Regular filtering
+            filtered = filter_sessions(sessions, params)
+
+            formatted_sessions = []
+            for session in filtered:
+                start = session.get("startTime", "")
+                end = session.get("endTime", "")
+                time_str = f"{start} - {end}".strip(" -") if start or end else ""
+
+                formatted_session = {
+                    "id": session.get("id", ""),
+                    "title": session.get("title", ""),
+                    "date": session.get("date", ""),
+                    "time": time_str,
+                    "stage": session.get("stage", ""),
+                    "speakers": session.get("speakers", []),
+                    "ecosystems": session.get("ecosystems", []),
+                }
+                formatted_sessions.append(formatted_session)
+
+            return create_response(200, {
+                "total": len(sessions),
+                "count": len(formatted_sessions),
+                "filters": {k: v[0] for k, v in params.items() if v},
+                "sessions": formatted_sessions,
+            })
 
     elif path == "/speakers":
         speakers = get_speakers()
