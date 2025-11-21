@@ -11,7 +11,13 @@ import * as logs from 'aws-cdk-lib/aws-logs';
 import { PythonFunction } from '@aws-cdk/aws-lambda-python-alpha';
 import { Construct } from 'constructs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
+import { dirname } from 'path';
 import { NagSuppressions } from 'cdk-nag';
+
+// ESM equivalent of __dirname
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 export interface AdoptaiStackProps extends cdk.StackProps {
   domainName?: string;

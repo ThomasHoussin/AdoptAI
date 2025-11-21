@@ -212,13 +212,13 @@ def filter_sessions(sessions: list[dict], params: dict) -> list[dict]:
         filtered = [
             s for s in filtered
             if search_lower in s.get("title", "").lower() or
-               search_lower in s.get("stage", "").lower() or
                any(
                    search_lower in sp.get("name", "").lower() or
                    search_lower in sp.get("company", "").lower() or
-                   search_lower in sp.get("role", "").lower()
+                   search_lower in sp.get("title", "").lower()
                    for sp in s.get("speakers", [])
-               )
+               ) or
+               any(search_lower in eco.lower() for eco in s.get("ecosystems", []))
         ]
 
     return filtered
@@ -235,7 +235,7 @@ def filter_speakers(speakers: list[dict], params: dict) -> list[dict]:
             sp for sp in filtered
             if search_lower in sp.get("name", "").lower() or
                search_lower in sp.get("company", "").lower() or
-               search_lower in sp.get("role", "").lower()
+               search_lower in sp.get("title", "").lower()
         ]
 
     return filtered
@@ -245,13 +245,15 @@ def create_response(status_code: int, body: Any, content_type: str = "applicatio
     """Create HTTP response"""
     if content_type == "application/json":
         body_str = json.dumps(body, ensure_ascii=False)
+        content_type_header = "application/json; charset=utf-8"
     else:
         body_str = str(body)
+        content_type_header = f"{content_type}; charset=utf-8"
 
     return {
         "statusCode": status_code,
         "headers": {
-            "Content-Type": content_type,
+            "Content-Type": content_type_header,
             "Access-Control-Allow-Origin": "*",
             "Access-Control-Allow-Methods": "GET, OPTIONS",
             "Access-Control-Allow-Headers": "Content-Type, Authorization",

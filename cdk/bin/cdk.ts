@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 import * as cdk from 'aws-cdk-lib';
-import { AdoptaiStack } from '../lib/adoptai-stack';
+import { AdoptaiStack } from '../lib/adoptai-stack.js';
 import { AwsSolutionsChecks } from 'cdk-nag';
 
 const app = new cdk.App();
